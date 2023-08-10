@@ -1,0 +1,947 @@
+collection_no,family_name,occurrence.genus_name,occurrence.species_name,abund_value,abund_unit,life_habit,diet1,locomotion,environment
+69641,Posidoniidae,Posidonia,sp.,23,individuals,1,1,2,deep subtidal indet.
+69641,Halobiidae,Daonella,sp.,90,individuals,1,1,2,deep subtidal indet.
+69642,Malletiidae,Palaeoneilo,elliptica,1,individuals,11,2,4,deep subtidal shelf
+69642,Halobiidae,Daonella,sp.,130,individuals,1,1,2,deep subtidal shelf
+69643,Halobiidae,Daonella,sp. 1,7,individuals,1,1,2,deep subtidal shelf
+69643,Halobiidae,Daonella,sp. 2,4,individuals,1,1,2,deep subtidal shelf
+69643,Posidoniidae,Posidonia,sp.,99,individuals,1,1,2,deep subtidal shelf
+69644,Posidoniidae,Posidonia,sp.,16,individuals,1,1,2,deep subtidal shelf
+69644,Halobiidae,Daonella,sp.,2,individuals,1,1,2,deep subtidal shelf
+69645,Halobiidae,Daonella,sp.,61,individuals,1,1,2,deep subtidal shelf
+69645,Posidoniidae,Posidonia,sp.,3,individuals,1,1,2,deep subtidal shelf
+69646,Posidoniidae,Posidonia,sp.,220,individuals,1,1,2,deep subtidal shelf
+69647,Halobiidae,Daonella,cassiana,34,individuals,1,1,2,deep subtidal shelf
+69649,,Cidaris,fustis,1,individuals,1,5,6,shallow subtidal indet.
+69649,Coelostylinidae,Coelostylina,crassa,1,individuals,1,10,6,shallow subtidal indet.
+69649,Nuculidae,Palaeonucula,sp.,1,individuals,3,2,6,shallow subtidal indet.
+69649,Neritariidae,Neritaria,plicatilis,1,individuals,1,5,6,shallow subtidal indet.
+69649,Lophospiridae,Worthenia,sp.,3,individuals,1,1,4,shallow subtidal indet.
+69649,Megalodontidae,Megalodon,sp. A,4,individuals,2,1,1,shallow subtidal indet.
+69649,Naticopsidae,Naticopsis,ladina,1,individuals,1,5,6,shallow subtidal indet.
+69649,Bakevelliidae,Cultriopsis,angulata,1,individuals,1,1,2,shallow subtidal indet.
+69649,Megalodontidae,Megalodon,sp. B,2,individuals,2,1,1,shallow subtidal indet.
+69649,Settsassiidae,Katosira,sp.,1,individuals,1,10,6,shallow subtidal indet.
+69649,Megalodontidae,Megalodon,sp. C,2,individuals,2,1,1,shallow subtidal indet.
+69649,Wortheniellidae,Rinaldoella,johannisaustriae,1,individuals,1,1,4,shallow subtidal indet.
+69649,Coelostylinidae,Coelostylina,conica,1,individuals,1,10,6,shallow subtidal indet.
+69649,Coelostylinidae,Spirochrysalis,nympha,2,individuals,1,10,6,shallow subtidal indet.
+69649,Diplospirellidae,Diplospirella,multicostata,1,individuals,1,1,2,shallow subtidal indet.
+69649,Rhynchonellidae,Rhynchonella,subacuta,1,individuals,1,1,2,shallow subtidal indet.
+69649,Conophyllidae,Omphalophyllia,sp.,1,individuals,1,6,2,shallow subtidal indet.
+69649,Pachycardiidae,Trigonodus,sp.,1,individuals,11,1,4,shallow subtidal indet.
+69649,Diplospirellidae,Diplospirella,wissmanni,1,individuals,1,1,2,shallow subtidal indet.
+69649,Cassianellidae,Cassianella,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69649,,Pachycardia,haueri,1,individuals,11,1,4,shallow subtidal indet.
+69649,Cidaridae,Balanocidaris,dorsata,1,individuals,1,5,6,shallow subtidal indet.
+69650,Encrinidae,Zardinicrinus,granulosus,1,individuals,1,1,2,reef
+69650,Sestrostomellidae,Himatella,milleporata,1,individuals,1,1,2,reef
+69650,Coelostylinidae,Coelostylina,karreri,1,individuals,1,10,6,reef
+69650,Spirostylidae,Spirostylus,subcolumnaris,1,individuals,1,1,4,reef
+69650,,Septihoernesia,sp.,2,individuals,1,1,1,reef
+69650,Zygopleuridae,Zygopleura,arctecostata,1,individuals,1,1,4,reef
+69650,Malletiidae,Prosoleptus,lineatus,19,individuals,11,2,4,reef
+69650,Rhaphistomellidae,Rhaphistomella,radians,1,individuals,1,5,6,reef
+69650,Kalenteridae,Myoconcha,maximilianleuchtenbergensis,1,individuals,11,1,4,reef
+69650,Eucycloscalidae,Eucycloscala,binodosa,1,individuals,1,5,6,reef
+69650,Wortheniellidae,Rinaldoella,subgranulata,1,individuals,1,1,4,reef
+69650,Cidaridae,Rhabdocidaris,subcoronata,1,individuals,1,5,6,reef
+69650,Nuculidae,Palaeonucula,strigilata,1,individuals,3,2,6,reef
+69650,Gordenellidae,Promathildia,colon,2,individuals,1,10,6,reef
+69650,Zygopleuridae,Zygopleura,obliquecostata,1,individuals,1,1,4,reef
+69650,Dentaliidae,Plagioglypta,undulata,2,individuals,2,3,6,reef
+69650,Cidaridae,Cidaris,sp.,1,individuals,1,5,6,reef
+69650,Girtyocoeliidae,Enoplocoelia,armata,2,individuals,1,1,2,reef
+69650,Diplospirellidae,Diplospirella,wissmanni,9,individuals,1,1,2,reef
+69650,Naticopsidae,Naticopsis,sp.,1,individuals,1,5,6,reef
+69650,Cidaridae,Cidaris,brauni,1,individuals,1,5,6,reef
+69650,,Cidaris,forminensis,1,individuals,1,5,6,reef
+69650,Gordenellidae,Promathildia,sp.,1,individuals,1,10,6,reef
+69650,Pteriidae,Pteria,sp.,1,individuals,1,1,2,reef
+69651,Zygopleuridae,Goniospira,armata,1,individuals,1,1,4,reef
+69651,Cassianellidae,Cassianella,decussata,3,individuals,1,1,2,reef
+69651,Celyphiidae,Celyphia,submarginata,2,individuals,1,1,2,reef
+69651,Coelostylinidae,Trypanostylus,sp.,3,individuals,1,10,6,reef
+69651,Naticopsidae,Naticopsis,sp.,4,individuals,1,5,6,reef
+69651,Isocrinidae,Isocrinus,tyrolensis,1,individuals,1,1,2,reef
+69651,Pteriidae,Pteria,sp.,1,individuals,1,1,2,reef
+69651,Cidaridae,Cidaris,alata,1,individuals,1,5,6,reef
+69651,Pharetrospongiidae,Leiospongia,radiciformis,1,individuals,1,1,2,reef
+69651,Liotiidae,Brochidium,cingulatum,1,individuals,1,5,6,reef
+69651,Neritopsidae,Cassianopsis,armata,2,individuals,1,10,6,reef
+69651,Bakevelliidae,Gervillia,angusta,2,individuals,2,1,2,reef
+69651,Zygopleuridae,Zygopleura,hybrida,1,individuals,1,1,4,reef
+69651,Coelostylinidae,Coelostylina,subovata,1,individuals,1,10,6,reef
+69651,Goniasmatidae,Cheilotomona,acuta,2,individuals,1,10,6,reef
+69651,Nuculidae,Palaeonucula,expansa,1,individuals,3,2,6,reef
+69651,Bakevelliidae,Cultriopsis,angulata,1,individuals,1,1,2,reef
+69651,Gosseletinidae,Gosseletina,sp.,1,individuals,1,1,4,reef
+69651,Stellispongiidae,Stellispongia,variabilis,1,individuals,1,1,2,reef
+69651,Nuculidae,Palaeonucula,strigilata,17,individuals,3,2,6,reef
+69651,Coelostylinidae,Euchrysalis,fusiformis,1,individuals,1,10,6,reef
+69651,Coelostylinidae,Coelostylina,conica,2,individuals,1,10,6,reef
+69651,Coelostylinidae,Spirochrysalis,nympha,1,individuals,1,10,6,reef
+69651,Loxonematidae,Loxonema,sp.,2,individuals,1,1,4,reef
+69651,Protorculidae,Protorcula,sp.,1,individuals,1,10,6,reef
+69651,Volzeiidae,Volzeia,subdichotoma,8,individuals,1,6,2,reef
+69651,Ampullinidae,Ampullina,paludinaris,1,individuals,1,5,6,reef
+69651,Dentaliidae,Plagioglypta,undulata,2,individuals,2,3,6,reef
+69651,Parallelodontidae,Parallelodon,sp.,2,individuals,1,1,5,reef
+69651,Gordenellidae,Promathildia,subnodosa,1,individuals,1,10,6,reef
+69651,Cassianellidae,Cassianella,sp.,1,individuals,1,1,2,reef
+69651,Eucycloscalidae,Eucycloscala,sp.,1,individuals,1,5,6,reef
+69651,Cidaridae,Balanocidaris,dorsata,1,individuals,1,5,6,reef
+69652,Cidaridae,Balanocidaris,dorsata,1,individuals,1,5,6,shallow subtidal indet.
+69652,Spiriferinidae,Spiriferina,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69652,Lophospiridae,Worthenia,triton,1,individuals,1,1,4,shallow subtidal indet.
+69652,Nuculidae,Palaeonucula,sp.,1,individuals,3,2,6,shallow subtidal indet.
+69652,Malletiidae,Prosoleptus,faba,1,individuals,11,2,4,shallow subtidal indet.
+69652,Cassianellidae,Cassianella,decussata,4,individuals,1,1,2,shallow subtidal indet.
+69652,Diplospirellidae,Diplospirella,sufflata,11,individuals,1,1,2,shallow subtidal indet.
+69652,Cidaridae,Cidaris,roemeri,1,individuals,1,5,6,shallow subtidal indet.
+69652,Anoptychiidae,Anoptychia,sp.,1,individuals,1,10,6,shallow subtidal indet.
+69652,Koninckinidae,Koninckina,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69652,Myophoriidae,Myophoria,sp.,1,individuals,11,1,4,shallow subtidal indet.
+69652,Eunemopsidae,Pseudoclanculus,cassianus,1,individuals,1,5,6,shallow subtidal indet.
+69652,Naticidae,Natica,sp.,1,individuals,11,6,6,shallow subtidal indet.
+69652,Terebratulidae,Terebratula,tenella,5,individuals,1,1,2,shallow subtidal indet.
+69652,Wortheniellidae,Rinaldoella,coronata,1,individuals,1,1,4,shallow subtidal indet.
+69652,Dentaliidae,Plagioglypta,undulata,1,individuals,2,3,6,shallow subtidal indet.
+69653,Cassianellidae,Cassianella,avicularis,1,individuals,1,1,2,reef
+69653,Naticidae,Chilocyclus,carinatus,1,individuals,3,6,6,reef
+69653,Nuculanidae,Nuculana,sulcellata,1,individuals,3,2,6,reef
+69653,Palaeocarditidae,Palaeocardita,beneckei,4,individuals,11,1,4,reef
+69653,Parallelodontidae,Parallelodon,sp.,1,individuals,1,1,5,reef
+69654,Dielasmatidae,Cruratula,carinthiaca,1,individuals,1,1,2,reef
+69654,Spiriferinidae,Spiriferina,sp.,1,individuals,1,1,2,reef
+69654,Coelostylinidae,Coelostylina,conica,2,individuals,1,10,6,reef
+69654,Pectinidae,Pecten,sp.,1,individuals,1,1,4,reef
+69654,Koninckinidae,Koninckina,leonhardi,1,individuals,1,1,2,reef
+69654,Cassianellidae,Cassianella,angusta,2,individuals,1,1,2,reef
+69654,Terebratulidae,Terebratula,tenella,1,individuals,1,1,2,reef
+69655,Naticidae,Chilocyclus,carinatus,1,individuals,3,6,6,shallow subtidal indet.
+69655,Spiriferinidae,Spiriferina,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69655,,Cladogirvanella,cipitensis,1,individuals,10,7,1,shallow subtidal indet.
+69655,Eucycloscalidae,Eucycloscala,binodosa,2,individuals,1,5,6,shallow subtidal indet.
+69655,Diplospirellidae,Diplospirella,quadriplecta,2,individuals,1,1,2,shallow subtidal indet.
+69655,Solenolmiidae,Solenolmia,manon,1,individuals,1,1,2,shallow subtidal indet.
+69655,Anoptychiidae,Anoptychia,carinata,1,individuals,1,10,6,shallow subtidal indet.
+69655,Diplospirellidae,Diplospirella,wissmanni,1,individuals,1,1,2,shallow subtidal indet.
+69656,Coelostylinidae,Trypanostylus,curretensis,1,individuals,1,10,6,reef
+69656,Dentaliidae,Plagioglypta,undulata,1,individuals,2,3,6,reef
+69656,Neritopsidae,Cassianopsis,decussata,1,individuals,1,10,6,reef
+69656,Spirostylidae,Spirostylus,subcolumnaris,1,individuals,1,1,4,reef
+69656,Plicatulidae,Plicatula,sp.,1,individuals,1,1,2,reef
+69656,Terebratulidae,Terebratula,sp.,1,individuals,1,1,2,reef
+69656,Naticopsidae,Hologyra,cassiana,1,individuals,1,5,6,reef
+69656,Coelostylinidae,Coelostylina,subovata,1,individuals,1,10,6,reef
+69656,Wortheniellidae,Rinaldoella,subgranulata,1,individuals,1,1,4,reef
+69656,Nuculidae,Palaeonucula,expansa,1,individuals,3,2,6,reef
+69656,Purpurinidae,Angularia,subpleurotomaria,1,individuals,1,5,6,reef
+69656,Naticopsidae,Naticopsis,expansa,2,individuals,1,5,6,reef
+69656,Coelostylinidae,Coelostylina,conica,2,individuals,1,10,6,reef
+69656,Loxonematidae,Loxonema,annae,1,individuals,1,1,4,reef
+69656,Lucinidae,Schafhaeutlia,mellingi,1,individuals,4,9,4,reef
+69656,Protorculidae,Protorcula,sp.,1,individuals,1,10,6,reef
+69657,Parallelodontidae,Parallelodon,sp.,1,individuals,1,1,5,marine indet.
+69657,Lophospiridae,Worthenia,subtilis,1,individuals,1,1,4,marine indet.
+69657,Prospondylidea,Terquemia,sp.,1,individuals,1,1,1,marine indet.
+69657,Parallelodontidae,Pichleria,sp.,1,individuals,1,1,5,marine indet.
+69657,Macluritidae,Maclurites,sp.,1,individuals,1,1,1,marine indet.
+69657,Delphinulopsidae,Delphinulopsis,binodosa,1,individuals,1,10,6,marine indet.
+69657,Diplospirellidae,Diplospirella,wissmanni,6,individuals,1,1,2,marine indet.
+69658,Polygyrinidae,Polygyrina,lommeli,1,individuals,1,1,4,reef
+69658,Wortheniellidae,Rinaldoella,coronata,1,individuals,1,1,4,reef
+69658,Anoptychiidae,Anoptychia,carinata,1,individuals,1,10,6,reef
+69658,Gordenellidae,Promathildia,sp.,3,individuals,1,10,6,reef
+69658,Pseudomelaniidae,Pseudomelania,sp.,1,individuals,1,10,6,reef
+69658,Pseudomelaniidae,Pseudomelania,muensteri,1,individuals,1,10,6,reef
+69658,Eucyclidae,Calliotropis,sp.,3,individuals,1,5,6,reef
+69658,,Cladogirvanella,cipitensis,2,individuals,10,7,1,reef
+69658,Eucycloscalidae,Eucycloscala,binodosa,1,individuals,1,5,6,reef
+69658,Trochidae,Anticonulus,ogilviae,1,individuals,1,5,6,reef
+69658,Anoptychiidae,Anoptychia,multitorquata,1,individuals,1,10,6,reef
+69658,Naticopsidae,Naticopsis,expansa,5,individuals,1,5,6,reef
+69658,Reimaniphylliidae,Craspedophyllia,gracilis,2,individuals,1,8,2,reef
+69658,Protoheterastraeidae,Remismilia,sublaevis,4,individuals,1,6,2,reef
+69659,Eucycloscalidae,Eucycloscala,biserta,3,individuals,1,5,6,reef
+69659,Gordenellidae,Promathildia,subnodosa,1,individuals,1,10,6,reef
+69659,Zygopleuridae,Zygopleura,walmstedti,2,individuals,1,1,4,reef
+69659,Tofanellidae,Camponaxis,lateplicata,3,individuals,1,10,6,reef
+69659,Neritariidae,Dentineritaria,neritina,5,individuals,1,5,6,reef
+69659,Gordenellidae,Promathildia,subornata,1,individuals,1,10,6,reef
+69659,Ampullinidae,Ampullina,sanctaecrucis,3,individuals,1,5,6,reef
+69659,Coelostylinidae,Coelostylina,crassa,2,individuals,1,10,6,reef
+69659,Purpurinidae,Angularia,pleurotomaria,2,individuals,1,5,6,reef
+69659,Coelostylinidae,Coelostylina,karreri,2,individuals,1,10,6,reef
+69659,Anoptychiidae,Anoptychia,carinata,1,individuals,1,10,6,reef
+69659,Eunemopsidae,Pseudoclanculus,sp.,2,individuals,1,5,6,reef
+69659,Pteriidae,Pteria,sp.,10,individuals,1,1,2,reef
+69659,Gosseletinidae,Gosseletina,fasciolata,1,individuals,1,1,4,reef
+69659,Neritariidae,Neritaria,plicatilis,9,individuals,1,5,6,reef
+69659,Prospondylidea,Terquemia,sp.,7,individuals,1,1,1,reef
+69659,Mathildidae,Teretrina,bolina,1,individuals,1,6,6,reef
+69659,Craspedostomatidae,Natiria,sublineata,1,individuals,1,6,4,reef
+69659,Loxonematidae,Loxonema,mersai,1,individuals,1,1,4,reef
+69659,Naticidae,Natica,pseudospirata,1,individuals,11,6,6,reef
+69659,Neritopsidae,Cassianopsis,armata,1,individuals,1,10,6,reef
+69659,Bakevelliidae,Gervillia,angusta,1,individuals,2,1,2,reef
+69659,Wortheniellidae,Rinaldoella,subgranulata,1,individuals,1,1,4,reef
+69659,Epitoniidae,Scalaria,elegans,1,individuals,1,6,6,reef
+69659,Craspedostomatidae,Natiria,sublineata,2,individuals,1,6,4,reef
+69659,Pseudomelaniidae,Pseudomelania,muensteri,1,individuals,1,10,6,reef
+69659,Prostyliferidae,Ptychostoma,waehneri,4,individuals,1,5,6,reef
+69659,Purpurinidae,Angularia,sp. A,3,individuals,1,5,6,reef
+69659,Naticopsidae,Naticopsis,subelongata,6,individuals,1,5,6,reef
+69659,Stuorellidae,Stuorella,sp.,2,individuals,1,5,6,reef
+69659,Ampullinidae,Ampullina,subhybridica,7,individuals,1,5,6,reef
+69659,Naticopsidae,Naticopsis,gaderana,1,individuals,1,5,6,reef
+69659,Myophoriidae,Gruenewaldia,woehrmanni,1,individuals,11,1,4,reef
+69659,Purpurinidae,Angularia,subpleurotomaria,2,individuals,1,5,6,reef
+69659,Myophoricardiidae,Myophoriopis,lineata,1,individuals,11,1,4,reef
+69659,Naticopsidae,Naticopsis,expansa,85,individuals,1,5,6,reef
+69659,Thecospiridae,Thecospira,sp.,1,individuals,1,1,2,reef
+69659,Naticopsidae,Cortinaticopsis,impressa,7,individuals,1,5,6,reef
+69659,Ampullinidae,Ampullina,paludinaris,4,individuals,1,5,6,reef
+69659,Coelostylinidae,Coelostylina,infriastriata,1,individuals,1,10,6,reef
+69659,Coelostylinidae,Coelostylina,conica,2,individuals,1,10,6,reef
+69659,Loxonematidae,Loxonema,annae,1,individuals,1,1,4,reef
+69659,Delphinulopsidae,Delphinulopsis,sp.,1,individuals,1,10,6,reef
+69660,Thecospiridae,Thecospira,sp.,3,individuals,1,1,2,reef
+69660,,Rostellaria,nodosocarinatus,1,individuals,1,5,6,reef
+69660,Coelostylinidae,Coelostylina,conica,3,individuals,1,10,6,reef
+69660,Cidaridae,Balanocidaris,dorsata,1,individuals,1,5,6,reef
+69660,,Cidaris,fustis,1,individuals,1,5,6,reef
+69660,Coelostylinidae,Trypanostylus,sp.,1,individuals,1,10,6,reef
+69660,Lophospiridae,Eunema,tietzei,2,individuals,1,1,4,reef
+69660,Wortheniellidae,Wortheniella,spuria,1,individuals,1,1,4,reef
+69660,Zygopleuridae,Ampezzopleura,tenuis,1,individuals,1,1,4,reef
+69660,Plicatulidae,Plicatula,sp.,1,individuals,1,1,2,reef
+69660,Bakevelliidae,Cultriopsis,angulata,1,individuals,1,1,2,reef
+69660,Fedaiellidae,Fedaiella,neritacea,1,individuals,1,10,6,reef
+69660,,Cidaris,biconica,1,individuals,1,5,6,reef
+69660,Bakevelliidae,Gervillia,angusta,1,individuals,2,1,2,reef
+69660,Nuculidae,Palaeonucula,strigilata,1,individuals,3,2,6,reef
+69660,Rhynchonellidae,Rhynchonella,subacuta,3,individuals,1,1,2,reef
+69661,,Spirocyclina,eucycla,1,individuals,1,10,6,reef
+69661,Naticopsidae,Naticopsis,expansa,1,individuals,1,5,6,reef
+69661,Tricolnaticopsidae,Pachyomphalus,uhligi,1,individuals,1,10,6,reef
+69661,Prostyliferidae,Ptychostoma,mojsisovicsi,1,individuals,1,5,6,reef
+69661,Rhynchonellidae,Rhynchonella,linguligera,2,individuals,1,1,2,reef
+69661,Bittnerulidae,Bittnerula,sp.,4,individuals,1,1,2,reef
+69661,Diplospirellidae,Diplospirella,sp.,28,individuals,1,1,2,reef
+69661,Eucycloscalidae,Eucycloscala,sp.,3,individuals,1,5,6,reef
+69661,Cidaridae,Cidaris,liagora,1,individuals,1,5,6,reef
+69661,Ampullinidae,Ampullina,paludinaris,1,individuals,1,5,6,reef
+69661,Palaeonaricidae,Palaeonarica,pyrulaeformis,1,individuals,1,10,6,reef
+69661,Naticidae,Polinices,triadica,1,individuals,11,6,6,reef
+69661,Diplospirellidae,Diplospirella,wissmanni,76,individuals,1,1,2,reef
+69661,Terebratulidae,Terebratula,tenella,1,individuals,1,1,2,reef
+69661,Palaeocarditidae,Palaeocardita,beneckei,1,individuals,11,1,4,reef
+69661,Lucinidae,Schafhaeutlia,sp.,9,individuals,4,9,4,reef
+69661,Parallelodontidae,Parallelodon,sp.,5,individuals,1,1,5,reef
+69661,Myophoricardiidae,Myophoriopis,sp.,1,individuals,11,1,4,reef
+69661,Plicatulidae,Plicatula,imago,18,individuals,1,1,2,reef
+69661,Encrinidae,Zardinicrinus,granulosus,1,individuals,1,1,2,reef
+69661,Thecospiridae,Thecospira,sp.,50,individuals,1,1,2,reef
+69661,Gordenellidae,Promathildia,subnodosa,2,individuals,1,10,6,reef
+69661,Settsassiidae,Katosira,seelandica,3,individuals,1,10,6,reef
+69661,Maturifusidae,Palaeotriton,macrostoma,3,individuals,1,10,6,reef
+69661,Bittnerulidae,Bittnerula,zitteli,25,individuals,1,1,2,reef
+69661,Neritariidae,Dentineritaria,neritina,1,individuals,1,5,6,reef
+69661,Terebratulidae,Terebratula,pleurocoela,4,individuals,1,1,2,reef
+69661,Coelostylinidae,Trypanostylus,curretensis,1,individuals,1,10,6,reef
+69661,Wortheniellidae,Rinaldoella,coronata,1,individuals,1,1,4,reef
+69661,Coelostylinidae,Coelostylina,cochlea,1,individuals,1,10,6,reef
+69661,Retziidae,Retzia,procerrima,1,individuals,1,1,2,reef
+69661,Naticopsidae,Naticopsis,sp.,12,individuals,1,5,6,reef
+69661,Coelostylinidae,Coelostylina,conica,6,individuals,1,10,6,reef
+69661,Pteriidae,Pteria,sp.,13,individuals,1,1,2,reef
+69661,Cidaridae,Balanocidaris,dorsata,1,individuals,1,5,6,reef
+69661,Cassianellidae,Cassianella,beyrichii,4,individuals,1,1,2,reef
+69661,Thecospiridae,Thecospira,tirolensis,125,individuals,1,1,2,reef
+69661,,Cidaris,fustis,2,individuals,1,5,6,reef
+69661,Protorculidae,Protorcula,subpunctata,1,individuals,1,10,6,reef
+69661,Nuculanidae,Nuculana,sulcellata,1,individuals,3,2,6,reef
+69661,Coelostylinidae,Coelostylina,crassa,2,individuals,1,10,6,reef
+69661,Rhynchonellidae,Rhynchonella,sp.,5,individuals,1,1,2,reef
+69661,Dentaliidae,Dentalium,sp.,6,individuals,2,3,6,reef
+69661,Naticopsidae,Naticopsis,laubei,2,individuals,1,5,6,reef
+69661,Coelostylinidae,Trypanostylus,konincki,2,individuals,1,10,6,reef
+69661,Cidaridae,Cidaris,alata,1,individuals,1,5,6,reef
+69661,Purpurinidae,Angularia,pleurotomaria,1,individuals,1,5,6,reef
+69661,Pteriidae,Pteria,cassiana,1,individuals,1,1,2,reef
+69661,Parallelodontidae,Parallelodon,imbricarium,1,individuals,1,1,5,reef
+69661,Dicerocardiidae,Physocardia,sp.,2,individuals,2,1,1,reef
+69661,Eunemopsidae,Eunemopsis,dolomitica,21,individuals,1,5,6,reef
+69661,,Cidaris,costata,1,individuals,1,5,6,reef
+69661,Neritopsidae,Cassianopsis,decussata,1,individuals,1,10,6,reef
+69661,Zygopleuridae,Ampezzopleura,tenuis,2,individuals,1,1,4,reef
+69661,Pseudomelaniidae,Pseudomelania,hagenowi,1,individuals,1,10,6,reef
+69661,Palaeocarditidae,Palaeocardita,crenata,3,individuals,11,1,4,reef
+69661,Megalodontidae,Megalodon,rimosus,1,individuals,2,1,1,reef
+69661,Eucycloscalidae,Eucycloscala,damesi,9,individuals,1,5,6,reef
+69661,,Cidaris,hausmanni,1,individuals,1,5,6,reef
+69661,Zygopleuridae,Allostrophia,perversa,1,individuals,1,1,4,reef
+69661,Cassianellidae,Cassianella,ampezzana,2,individuals,1,1,2,reef
+69661,Diplospirellidae,Diplospirella,sufflata,61,individuals,1,1,2,reef
+69661,Limidae,Eolimea,margineplicata,1,individuals,1,1,2,reef
+69661,,Cidaris,scrobiculata,1,individuals,1,5,6,reef
+69661,Pteriidae,Pteria,caudata,1,individuals,1,1,2,reef
+69661,Prospondylidea,Terquemia,sp.,3,individuals,1,1,1,reef
+69661,Protorculidae,Protorcula,excavata,1,individuals,1,10,6,reef
+69661,Pseudomelaniidae,Pseudomelania,miles,2,individuals,1,10,6,reef
+69661,Limidae,Mysidioptera,sp.,2,individuals,1,1,2,reef
+69661,Plicatulidae,Plicatula,sp.,20,individuals,1,1,2,reef
+69661,Trachoecidae,Trachoecus,gemmellaroi,1,individuals,1,10,6,reef
+69661,Mathildidae,Teretrina,bolina,1,individuals,1,6,6,reef
+69661,Koninckinidae,Amphiclina,speciosa,17,individuals,1,1,2,reef
+69661,Myophoriidae,Gruenewaldia,decussata,2,individuals,11,1,4,reef
+69661,Ampullinidae,Ampullina,sp. A,1,individuals,1,5,6,reef
+69661,Settsassiidae,Katosira,sp.,1,individuals,1,10,6,reef
+69661,Gordenellidae,Promathildia,colon,1,individuals,1,10,6,reef
+69661,Neritopsidae,Cassianopsis,armata,1,individuals,1,10,6,reef
+69661,,Cidaris,seelandica,1,individuals,1,5,6,reef
+69661,Zygopleuridae,Hypsipleura,subnodosa,1,individuals,1,1,4,reef
+69661,Zeilleriidae,Aulacothyris,sp.,3,individuals,1,1,2,reef
+69661,Neritopsidae,Neritopsis,sp.,2,individuals,1,,6,reef
+69661,Eucycloscalidae,Eucycloscala,ornata,19,individuals,1,5,6,reef
+69661,Neritariidae,Neritaria,mandelslohi,1,individuals,1,5,6,reef
+69661,Bakevelliidae,Cultriopsis,angulata,7,individuals,1,1,2,reef
+69661,,Pseudochrysalis,sp.,4,individuals,1,,6,reef
+69661,Retziidae,Retzia,humboldtii,2,individuals,1,1,2,reef
+69661,Mytilidae,Modiolus,gracilis,4,individuals,2,1,2,reef
+69661,Fedaiellidae,Fedaiella,neritacea,12,individuals,1,10,6,reef
+69661,,Cidaris,biconica,1,individuals,1,5,6,reef
+69661,Wortheniellidae,Rinaldoella,muensteri,1,individuals,1,1,4,reef
+69661,Bakevelliidae,Gervillia,angusta,60,individuals,2,1,2,reef
+69661,Ostreidae,Ostrea,sp.,5,individuals,1,1,2,reef
+69661,Isocrinidae,Isocrinus,candelabrum,1,individuals,1,1,2,reef
+69661,Naticopsidae,Naticopsis,subelongata,5,individuals,1,5,6,reef
+69661,,Cidaris,waechteri,1,individuals,1,5,6,reef
+69661,Malleidae,Isognomon,sp.,2,individuals,1,1,2,reef
+69661,Limidae,Lima,sp.,1,individuals,1,1,5,reef
+69661,Megalodontidae,Megalodon,sp.,1,individuals,2,1,1,reef
+69661,Wortheniellidae,Wortheniella,coralliophila,9,individuals,1,1,4,reef
+69661,Retziidae,Retzia,klipsteini,1,individuals,1,1,2,reef
+69661,Nuculidae,Palaeonucula,strigilata,1,individuals,3,2,6,reef
+69661,Trochidae,Anticonulus,ogilviae,1,individuals,1,5,6,reef
+69661,Rhynchonellidae,Rhynchonella,subacuta,156,individuals,1,1,2,reef
+69661,Parallelodontidae,Parallelodon,formosissima,2,individuals,1,1,5,reef
+69661,Coelostylinidae,Trypanostylus,semiglaber,1,individuals,1,10,6,reef
+69661,Isocrinidae,Isocrinus,sassostriensis,1,individuals,1,1,2,reef
+69661,Laubellidae,Laubella,delicata,1,individuals,1,5,6,reef
+69661,Coelostylinidae,Coelostylina,sp.,3,individuals,1,10,6,reef
+69661,Anoptychiidae,Anoptychia,multitorquata,2,individuals,1,10,6,reef
+69661,Delphinulopsidae,Delphinulopsis,pustulosa,1,individuals,1,10,6,reef
+69661,Encrinidae,Encrinus,cancellistriatus,1,individuals,1,1,2,reef
+69661,Turbinidae,Turbo,sp.,1,individuals,1,5,6,reef
+69661,Settsassiidae,Katosira,cassiana,5,individuals,1,10,6,reef
+69661,Rhynchonellidae,Rhynchonella,distinguenda,2,individuals,1,1,2,reef
+69661,Pectinidae,Pecten,sp.,6,individuals,1,1,4,reef
+69661,Dimyidae,Atreta,sp.,2,individuals,1,1,2,reef
+69661,Cidaridae,Cidaris,admeto,2,individuals,1,5,6,reef
+69661,Retziidae,Retzia,lyrata,8,individuals,1,1,2,reef
+69661,Spiriferinidae,Spiriferina,fortis,1,individuals,1,1,2,reef
+69661,Naticidae,Natica,transiens,1,individuals,11,6,6,reef
+69661,Pseudowortheniellidae,Pseudowortheniella,rarissima,3,individuals,1,5,6,reef
+69661,Isocrinidae,Isocrinus,sp. A,1,individuals,1,1,2,reef
+69661,Purpurinidae,Angularia,subpleurotomaria,1,individuals,1,5,6,reef
+69662,Naticopsidae,Naticopsis,involuta,1,individuals,1,5,6,reef
+69662,Colospongiidae,Colospongia,dubia,1,individuals,1,1,2,reef
+69662,Ceratoporellidae,Ceratoporella,sp.,2,individuals,1,1,2,reef
+69662,,Actinofungia,astroites,1,individuals,1,1,2,reef
+69662,Cryptocoeliidae,Cryptocoelia,zitteli,1,individuals,1,1,2,reef
+69662,Wortheniellidae,Wortheniella,canalifera,1,individuals,1,1,4,reef
+69662,Protorculidae,Protorcula,subpunctata,1,individuals,1,10,6,reef
+69662,Coelostylinidae,Coelostylina,crassa,1,individuals,1,10,6,reef
+69662,Palaeocarditidae,Palaeocardita,crenata,1,individuals,11,1,4,reef
+69662,Cassianellidae,Cassianella,planidorsata,2,individuals,1,1,2,reef
+69662,Wortheniellidae,Rinaldoella,johannisaustriae,1,individuals,1,1,4,reef
+69662,Pseudomelaniidae,Pseudomelania,miles,2,individuals,1,10,6,reef
+69662,Stellispongiidae,Peronidella,loretzi,1,individuals,1,1,2,reef
+69662,Neritopsidae,Cassianopsis,armata,1,individuals,1,10,6,reef
+69662,Stuorellidae,Stuorella,tofanae,1,individuals,1,5,6,reef
+69662,Coelostylinidae,Coelostylina,griesbachi,1,individuals,1,10,6,reef
+69662,,Palaeocollonia,laevigata,1,individuals,1,10,6,reef
+69662,Nuculidae,Palaeonucula,strigilata,1,individuals,3,2,6,reef
+69662,Stellispongiidae,Peronidella,subcaespitosa,1,individuals,1,1,2,reef
+69662,Stellispongiidae,Eudea,polymorpha,1,individuals,1,1,2,reef
+69662,Lucinidae,Schafhaeutlia,sp.,1,individuals,4,9,4,reef
+69663,Pectinidae,Pecten,sp.,1,individuals,1,1,4,reef
+69663,Cassianellidae,Cassianella,sp.,1,individuals,1,1,2,reef
+69663,Faviidae,Myriophyllia,sp.,1,individuals,1,8,2,reef
+69663,Preperonidellidae,Precorynella,astroites,1,individuals,1,1,2,reef
+69663,Terebratulidae,Terebratula,porrecta,2,individuals,1,1,2,reef
+69663,Diplospirellidae,Diplospirella,wissmanni,25,individuals,1,1,2,reef
+69663,Pharetrospongiidae,Leiospongia,sp.,2,individuals,1,1,2,reef
+69663,Thecospiridae,Thecospira,tirolensis,2,individuals,1,1,2,reef
+69663,Endostomatidae,Endostoma,sp.,1,individuals,1,1,2,reef
+69663,Stellispongiidae,Peronidella,sp.,1,individuals,1,1,2,reef
+69663,Rhynchonellidae,Rhynchonella,subacuta,1,individuals,1,1,2,reef
+69664,Delphinulopsidae,Delphinulopsis,sp.,1,individuals,1,10,6,reef
+69664,Plicatulidae,Pseudoplacunopsis,affixa,1,individuals,1,1,2,reef
+69664,Protorculidae,Protorcula,sp.,1,individuals,1,10,6,reef
+69664,Cidaridae,Cidaris,admeto,1,individuals,1,5,6,reef
+69664,Loxonematidae,Loxonema,turritelliformis,1,individuals,1,1,4,reef
+69664,Eucyclidae,Calliotropis,damon,1,individuals,1,5,6,reef
+69664,Mytilidae,Modiolus,sp.,3,individuals,2,1,2,reef
+69664,Zygopleuridae,Zygopleura,sp.,8,individuals,1,1,4,reef
+69664,Naticopsidae,Naticopsis,expansa,2,individuals,1,5,6,reef
+69664,Eucycloscalidae,Eucycloscala,biserta,2,individuals,1,5,6,reef
+69664,Zygopleuridae,Zygopleura,walmstedti,1,individuals,1,1,4,reef
+69664,Rhynchonellidae,Rhynchonella,pichleri,2,individuals,1,1,2,reef
+69664,Pectinidae,Pecten,sp.,3,individuals,1,1,4,reef
+69664,Polygyrinidae,Polygyrina,lommeli,1,individuals,1,1,4,reef
+69664,Eucycloscalidae,Eucycloscala,sp.,1,individuals,1,5,6,reef
+69664,Isocrinidae,Isocrinus,tyrolensis,1,individuals,1,1,2,reef
+69664,Coelostylinidae,Coelostylina,conica,1,individuals,1,10,6,reef
+69664,Nuculidae,Palaeonucula,caranthana,5,individuals,3,2,6,reef
+69664,Reimaniphylliidae,Retiophyllia,sp.,23,individuals,1,8,2,reef
+69664,Encrinidae,Zardinicrinus,granulosus,2,individuals,1,1,2,reef
+69664,Nuculidae,Palaeonucula,sp.,2,individuals,3,2,6,reef
+69664,Parallelodontidae,Parallelodon,curionii,1,individuals,1,1,5,reef
+69664,,Septihoernesia,sp.,1,individuals,1,1,1,reef
+69664,Limopsidae,Hoferia,lateareata,1,individuals,1,1,4,reef
+69664,Coelostylinidae,Coelostylina,cochlea,1,individuals,1,10,6,reef
+69664,Anoptychiidae,Anoptychia,carinata,7,individuals,1,10,6,reef
+69664,Cassianellidae,Cassianella,decussata,24,individuals,1,1,2,reef
+69664,Coelostylinidae,Trypanostylus,sp.,5,individuals,1,10,6,reef
+69664,Naticopsidae,Naticopsis,sp.,10,individuals,1,5,6,reef
+69664,Cidaridae,Rhabdocidaris,subcoronata,1,individuals,1,5,6,reef
+69664,Cidaridae,Balanocidaris,dorsata,10,individuals,1,5,6,reef
+69664,Terebratulidae,Terebratula,sp.,1,individuals,1,1,2,reef
+69664,Coelostylinidae,Trypanostylus,konincki,1,individuals,1,10,6,reef
+69664,Cidaridae,Cidaris,alata,1,individuals,1,5,6,reef
+69664,Olangocoeliidae,Olangocoelia,sp.,16,individuals,1,1,2,reef
+69664,,Cidaris,costata,1,individuals,1,5,6,reef
+69664,Zygopleuridae,Ampezzopleura,tenuis,1,individuals,1,1,4,reef
+69664,Anoptychiidae,Anoptychia,sp.,1,individuals,1,10,6,reef
+69664,Pectinidae,Granulochlamys,tubulifer,7,individuals,1,1,4,reef
+69664,,Cidaris,hausmanni,1,individuals,1,5,6,reef
+69664,Pteriidae,Pteria,caudata,13,individuals,1,1,2,reef
+69664,Koninckinidae,Koninckina,sp.,1,individuals,1,1,2,reef
+69664,Myophoriidae,Myophoria,sp.,3,individuals,11,1,4,reef
+69664,Gordenellidae,Promathildia,sp.,3,individuals,1,10,6,reef
+69664,Mathildidae,Teretrina,stuorensis,2,individuals,1,6,6,reef
+69664,Wortheniellidae,Rinaldoella,subgranulata,2,individuals,1,1,4,reef
+69664,Protorculidae,Protorcula,excavata,1,individuals,1,10,6,reef
+69664,Bakevelliidae,Cultriopsis,sp.,4,individuals,1,1,2,reef
+69664,Protorculidae,Atorcula,canalifera,2,individuals,1,10,6,reef
+69664,Pteriidae,Pteria,sturi,13,individuals,1,1,2,reef
+69664,Coelostylinidae,Coelostylina,waageni,1,individuals,1,10,6,reef
+69664,Limidae,Mysidioptera,sp.,1,individuals,1,1,2,reef
+69664,Plicatulidae,Plicatula,sp.,1,individuals,1,1,2,reef
+69664,Encrinidae,Cassianocrinus,varians,1,individuals,1,1,2,reef
+69664,Pteriidae,Pteria,cortinensis,49,individuals,1,1,2,reef
+69664,Coelostylinidae,Spirochrysalis,nympha,2,individuals,1,10,6,reef
+69664,Cassianellidae,Cassianella,euglyphoides,2,individuals,1,1,2,reef
+69664,Gordenellidae,Promathildia,subcancellata,2,individuals,1,10,6,reef
+69664,Neritopsidae,Neritopsis,sp.,2,individuals,1,10,6,reef
+69664,Lottiidae,Scurria,sp.,1,individuals,1,5,5,reef
+69664,Solenolmiidae,Solenolmia,manon,2,individuals,1,1,2,reef
+69664,Bakevelliidae,Cultriopsis,angulata,32,individuals,1,1,2,reef
+69664,Mytilidae,Modiolus,gracilis,8,individuals,2,1,2,reef
+69664,Stellispongiidae,Eudea,crassa,7,individuals,1,1,2,reef
+69664,Bakevelliidae,Gervillia,angusta,179,individuals,2,1,2,reef
+69664,Cidaridae,Cidaris,sp.,1,individuals,1,5,6,reef
+69664,Pteriidae,Pteria,frechii,13,individuals,1,1,2,reef
+69664,Anomiidae,Placunopsis,sp.,1,individuals,1,1,2,reef
+69664,Cassianellidae,Cassianella,angusta,5,individuals,1,1,2,reef
+69664,,Cidaris,waechteri,1,individuals,1,5,6,reef
+69664,Limidae,Lima,sp.,1,individuals,1,1,5,reef
+69664,Parallelodontidae,Parallelodon,formosissima,117,individuals,1,1,5,reef
+69664,Mytilidae,Modiolus,paronai,3,individuals,2,1,2,reef
+69664,Coelostylinidae,Trypanostylus,semiglaber,2,individuals,1,10,6,reef
+69664,Cidaridae,Cidaris,brauni,1,individuals,1,5,6,reef
+69664,Coelostylinidae,Coelostylina,sp.,2,individuals,1,10,6,reef
+69665,,Verrucospongia,sp. 1,1,individuals,1,1,2,reef
+69665,,Cidaris,waechteri,1,individuals,1,5,6,reef
+69665,Pseudomelaniidae,Pseudomelania,similis,6,individuals,1,10,6,reef
+69665,Nuculidae,Palaeonucula,strigilata,2,individuals,3,2,6,reef
+69665,Coelostylinidae,Coelostylina,sp.,1,individuals,1,10,6,reef
+69665,Isocrinidae,Isocrinus,tyrolensis,1,individuals,1,1,2,reef
+69665,Naticopsidae,Naticopsis,expansa,3,individuals,1,5,6,reef
+69665,Coelostylinidae,Coelostylina,karreri,2,individuals,1,10,6,reef
+69665,Zygopleuridae,Zygopleura,arctecostata,7,individuals,1,1,4,reef
+69665,Goniasmatidae,Cheilotomona,acuta,5,individuals,1,10,6,reef
+69665,Schizogoniidae,Schizogonium,serratum,1,individuals,1,5,6,reef
+69665,Wortheniellidae,Wortheniella,canalifera,2,individuals,1,1,4,reef
+69665,Terebratulidae,Terebratula,sp.,3,individuals,1,1,2,reef
+69665,Zygopleuridae,Ampezzopleura,tenuis,2,individuals,1,1,4,reef
+69665,Nuculidae,Palaeonucula,expansa,12,individuals,3,2,6,reef
+69665,Dentaliidae,Dentalium,simile,2,individuals,2,3,6,reef
+69665,,Cidaris,hausmanni,1,individuals,1,5,6,reef
+69665,Pseudomelaniidae,Pseudomelania,miles,2,individuals,1,10,6,reef
+69665,Neritopsidae,Cassianopsis,armata,2,individuals,1,10,6,reef
+69665,Coelostylinidae,Spirochrysalis,nympha,7,individuals,1,10,6,reef
+69665,Bakevelliidae,Gervillia,angusta,1,individuals,2,1,2,reef
+69666,,Septihoernesia,joannisaustriae,4,individuals,1,1,1,reef
+69666,Bakevelliidae,Gervillia,angusta,9,individuals,2,1,2,reef
+69666,Ampullinidae,Ampullina,sp.,3,individuals,1,5,6,reef
+69666,Eucycloscalidae,Eucycloscala,sp.,1,individuals,1,5,6,reef
+69666,,Anomalopleuroides,elisae,2,individuals,11,1,4,reef
+69666,Cassianellidae,Cassianella,beyrichii,18,individuals,1,1,2,reef
+69666,Pectinidae,Chlamys,subaequicostata,2,individuals,1,1,2,reef
+69666,Nuculanidae,Nuculana,sulcellata,3,individuals,3,2,6,reef
+69666,,Anomalopleuroides,sp. 2,2,individuals,11,1,4,reef
+69666,Cidaridae,Balanocidaris,dorsata,1,individuals,1,5,6,reef
+69666,Turbinidae,Turbo,eurymedon,1,individuals,1,5,6,reef
+69667,Terebratulidae,Terebratula,oppeli,2,individuals,1,1,2,reef
+69667,Cassianellidae,Cassianella,gryphaeata,1,individuals,1,1,2,reef
+69667,Loxonematidae,Loxonema,turritelliformis,1,individuals,1,1,4,reef
+69667,Halobiidae,Daonella,sp.,1,individuals,1,1,2,reef
+69667,Malletiidae,Phaenodesmia,sp.,1,individuals,11,2,4,reef
+69667,Aulacothyropsidae,Camerothyris,subangusta,1,individuals,1,1,2,reef
+69667,Diplospirellidae,Diplospirella,muensteri,2,individuals,1,1,2,reef
+69667,Malletiidae,Prosoleptus,lineatus,1,individuals,11,2,4,reef
+69667,Prospondylidea,Terquemia,sp.,1,individuals,1,1,1,reef
+69667,Cidaridae,Balanocidaris,dorsata,1,individuals,1,5,6,reef
+69667,Myophoriidae,Gruenewaldia,sp.,1,individuals,11,1,4,reef
+69667,Coelostylinidae,Trypanostylus,richthofeni,1,individuals,1,10,6,reef
+69667,Rhynchonellidae,Rhynchonella,bajuvarica,3,individuals,1,1,2,reef
+69667,Goniasmatidae,Cheilotomona,blumi,1,individuals,1,10,6,reef
+69667,Koninckinidae,Koninckina,leonhardi,2,individuals,1,1,2,reef
+69667,Cidaridae,Cidaris,sp.,1,individuals,1,5,6,reef
+69668,Parallelodontidae,Parallelodon,formosissima,10,individuals,1,1,5,reef
+69668,Coelostylinidae,Euchrysalis,sinistrorsa,2,individuals,1,10,6,reef
+69668,Cidaridae,Cidaris,sp.,1,individuals,1,5,6,reef
+69668,Purpurinidae,Angularia,subpleurotomaria,2,individuals,1,5,6,reef
+69668,Dentaliidae,Dentalium,decoratum,3,individuals,2,3,6,reef
+69668,Acteoninidae,Acteonina,sp.,3,individuals,1,10,6,reef
+69668,Protorculidae,Protorcula,sp.,1,individuals,1,10,6,reef
+69668,Cidaridae,Cidaris,lineola,1,individuals,1,5,6,reef
+69668,Ampullinidae,Ampullina,paludinaris,2,individuals,1,5,6,reef
+69668,Nuculidae,Palaeonucula,strigilata,3,individuals,3,2,6,reef
+69668,Coelostylinidae,Euchrysalis,sp.,3,individuals,1,10,6,reef
+69668,Gordenellidae,Promathildia,sp.,4,individuals,1,10,6,reef
+69668,Zygopleuridae,Zygopleura,sp.,8,individuals,1,1,4,reef
+69668,Parallelodontidae,Parallelodon,sp.,3,individuals,1,1,5,reef
+69668,Myophoricardiidae,Myophoriopis,sp.,2,individuals,11,1,4,reef
+69668,Eucycloscalidae,Eucycloscala,biserta,5,individuals,1,5,6,reef
+69668,Malletiidae,Palaeoneilo,elliptica,1,individuals,11,2,4,reef
+69668,Neritopsidae,Cassianopsis,decussata,2,individuals,1,10,6,reef
+69668,Isocrinidae,Isocrinus,tyrolensis,1,individuals,1,1,2,reef
+69668,Coelostylinidae,Coelostylina,conica,1,individuals,1,10,6,reef
+69668,Pteriidae,Pteria,sp.,2,individuals,1,1,2,reef
+69668,Reimaniphylliidae,Retiophyllia,sp.,3,individuals,1,8,2,reef
+69668,Naticopsidae,Naticopsis,expansa,4,individuals,1,5,6,reef
+69668,Gordenellidae,Promathildia,subornata,11,individuals,1,10,6,reef
+69668,Coelostylinidae,Coelostylina,karreri,1,individuals,1,10,6,reef
+69668,Rhaphistomellidae,Rhaphistomella,radians,1,individuals,1,5,6,reef
+69668,Cassianellidae,Cassianella,decussata,3,individuals,1,1,2,reef
+69668,Naticopsidae,Naticopsis,sp.,5,individuals,1,5,6,reef
+69668,,Cidaris,costata,1,individuals,1,5,6,reef
+69668,Cidaridae,Rhabdocidaris,subcoronata,1,individuals,1,5,6,reef
+69668,Cassianellidae,Cassianella,beyrichii,1,individuals,1,1,2,reef
+69668,Zygopleuridae,Zygopleura,arctecostata,6,individuals,1,1,4,reef
+69668,Protorculidae,Protorcula,subpunctata,2,individuals,1,10,6,reef
+69668,Coelostylinidae,Coelostylina,crassa,2,individuals,1,10,6,reef
+69668,Loxonematidae,Loxonema,mersai,1,individuals,1,1,4,reef
+69668,Diadematidae,Mesodiadema,latum,1,individuals,1,5,6,reef
+69668,Mytilidae,Modiolus,pygmaeus,1,individuals,2,1,2,reef
+69668,Malletiidae,Prosoleptus,lineatus,1,individuals,11,2,4,reef
+69668,Zygopleuridae,Zygopleura,obliquecostata,13,individuals,1,1,4,reef
+69668,Stylophyllidae,Pinacophyllum,gracile,2,individuals,1,8,2,reef
+69668,Eucycloscalidae,Eucycloscala,binodosa,8,individuals,1,5,6,reef
+69668,Cassianellidae,Cassianella,planidorsata,3,individuals,1,1,2,reef
+69668,Mathildidae,Teretrina,bolina,3,individuals,1,6,6,reef
+69668,Pseudomelaniidae,Pseudomelania,muensteri,4,individuals,1,10,6,reef
+69668,Terebratulidae,Terebratula,sp.,2,individuals,1,1,2,reef
+69668,Coelostylinidae,Euchrysalis,fusiformis,2,individuals,1,10,6,reef
+69668,Gordenellidae,Promathildia,colon,10,individuals,1,10,6,reef
+69668,Eunemopsidae,Pseudoclanculus,cassianus,1,individuals,1,5,6,reef
+69668,Zygopleuridae,Ampezzopleura,tenuis,34,individuals,1,1,4,reef
+69668,Nuculidae,Palaeonucula,expansa,1,individuals,3,2,6,reef
+69668,Cidaridae,Balanocidaris,dorsata,1,individuals,1,5,6,reef
+69668,Plicatulidae,Plicatula,sp.,2,individuals,1,1,2,reef
+69668,Neritariidae,Neritaria,mandelslohi,2,individuals,1,5,6,reef
+69668,,Cidaris,hausmanni,1,individuals,1,5,6,reef
+69668,,Pseudochrysalis,sp.,1,individuals,1,10,6,reef
+69668,Margarophylliidae,Margarosmilia,sp.,8,individuals,1,8,2,reef
+69668,Anomiidae,Placunopsis,sp.,1,individuals,1,1,2,reef
+69668,Eucycloscalidae,Eucycloscala,binodosa,2,individuals,1,5,6,reef
+69668,Neritopsidae,Neritopsis,sp.,1,individuals,1,10,6,reef
+69668,Bakevelliidae,Cultriopsis,angulata,1,individuals,1,1,2,reef
+69668,Trochidae,Anticonulus,ogilviae,1,individuals,1,5,6,reef
+69669,Myophoricardiidae,Myophoriopis,lineata,2,individuals,11,1,4,reef
+69669,Neritopsidae,Neritopsis,sp.,1,individuals,1,10,6,reef
+69669,Bakevelliidae,Cultriopsis,angulata,1,individuals,1,1,2,reef
+69669,Zygopleuridae,Zygopleura,haueri,2,individuals,1,1,4,reef
+69669,Trochidae,Anticonulus,ogilviae,1,individuals,1,5,6,reef
+69669,Lophospiridae,Eunema,badiotica,1,individuals,1,1,4,reef
+69669,Coelostylinidae,Coelostylina,sp.,2,individuals,1,10,6,reef
+69669,Cassianellidae,Cassianella,sp.,1,individuals,1,1,2,reef
+69669,Neritariidae,Neritaria,plicatilis,18,individuals,1,5,6,reef
+69669,Parallelodontidae,Parallelodon,formosissima,1,individuals,1,1,5,reef
+69669,Mytilidae,Modiolus,sp.,1,individuals,2,1,2,reef
+69669,Dentaliidae,Plagioglypta,undulata,13,individuals,2,3,6,reef
+69669,Naticopsidae,Naticopsis,altoni,1,individuals,1,5,6,reef
+69669,Bakevelliidae,Gervillia,angusta,2,individuals,2,1,2,reef
+69669,Ampullinidae,Ampullina,sanctaecrucis,3,individuals,1,5,6,reef
+69669,Purpurinidae,Angularia,subpleurotomaria,5,individuals,1,5,6,reef
+69669,Prostyliferidae,Ptychostoma,pleurotomoides,1,individuals,1,5,6,reef
+69669,Polygyrinidae,Polygyrina,lommeli,1,individuals,1,1,4,reef
+69669,Wortheniellidae,Rinaldoella,coronata,1,individuals,1,1,4,reef
+69669,Ampullinidae,Ampullina,paludinaris,5,individuals,1,5,6,reef
+69669,Nuculidae,Palaeonucula,strigilata,8,individuals,3,2,6,reef
+69669,Loxonematidae,Loxonema,turritelliformis,1,individuals,1,1,4,reef
+69669,Halobiidae,Daonella,sp.,2,individuals,1,1,2,reef
+69669,Gordenellidae,Promathildia,sp.,1,individuals,1,10,6,reef
+69669,Naticopsidae,Naticopsis,laubei,1,individuals,1,5,6,reef
+69669,Eucycloscalidae,Eucycloscala,sp.,1,individuals,1,5,6,reef
+69669,Purpurinidae,Angularia,pleurotomaria,4,individuals,1,5,6,reef
+69669,Naticopsidae,Hologyra,cassiana,11,individuals,1,5,6,reef
+69669,Malletiidae,Prosoleptus,sp.,1,individuals,11,2,4,reef
+69669,Spirostylidae,Euthystylus,badioticus,5,individuals,1,1,4,reef
+69669,Neritopsidae,Cassianopsis,decussata,1,individuals,1,10,6,reef
+69669,Coelostylinidae,Coelostylina,conica,17,individuals,1,10,6,reef
+69669,Pteriidae,Pteria,sp.,1,individuals,1,1,2,reef
+69669,Nuculanidae,Nuculana,sulcellata,1,individuals,3,2,6,reef
+69669,Cassianellidae,Cassianella,ampezzana,7,individuals,1,1,2,reef
+69669,Naticidae,Natica,pseudospirata,2,individuals,11,6,6,reef
+69669,Coelostylinidae,Coelostylina,karreri,2,individuals,1,10,6,reef
+69669,Rhaphistomellidae,Rhaphistomella,radians,1,individuals,1,5,6,reef
+69669,Parallelodontidae,Parallelodon,impressum,6,individuals,1,1,5,reef
+69669,Palaeocarditidae,Palaeocardita,crenata,2,individuals,11,1,4,reef
+69669,Zygopleuridae,Zygopleura,arctecostata,1,individuals,1,1,4,reef
+69669,Settsassiidae,Katosira,sp.,1,individuals,1,10,6,reef
+69669,Zygopleuridae,Zygopleura,obliquecostata,8,individuals,1,1,4,reef
+69669,Littorinidae,Lacuna,karreri,1,individuals,1,5,6,reef
+69669,Myophoriidae,Myophoria,sp.,1,individuals,11,1,4,reef
+69669,Eucycloscalidae,Eucycloscala,binodosa,2,individuals,1,5,6,reef
+69669,Protorculidae,Atorcula,canalifera,2,individuals,1,10,6,reef
+69669,Limidae,Mysidioptera,sp.,2,individuals,1,1,2,reef
+69669,Trochidae,Solarioconulus,nudus,1,individuals,1,5,6,reef
+69669,Mathildidae,Teretrina,bolina,1,individuals,1,6,6,reef
+69669,Ampullinidae,Ampullina,subhybridica,3,individuals,1,5,6,reef
+69669,Pseudomelaniidae,Pseudomelania,muensteri,2,individuals,1,10,6,reef
+69669,Naticidae,Natica,sp.,1,individuals,11,6,6,reef
+69669,Pseudomelaniidae,Pseudomelania,miles,1,individuals,1,10,6,reef
+69669,Nuculidae,Palaeonucula,expansa,2,individuals,3,2,6,reef
+69669,Anoptychiidae,Anoptychia,supraplecta,2,individuals,1,10,6,reef
+69669,Megalodontidae,Megalodon,sp.,1,individuals,2,1,1,reef
+69669,Neritariidae,Neritaria,mandelslohi,5,individuals,1,5,6,reef
+69669,,Pseudochrysalis,sp.,1,individuals,1,10,6,reef
+69669,Neritopsidae,Cassianopsis,armata,10,individuals,1,10,6,reef
+69670,,Pseudochrysalis,sp.,1,individuals,1,10,6,reef
+69670,Dielasmatidae,Cruratula,carinthiaca,1,individuals,1,1,2,reef
+69670,Eucyclidae,Calliotropis,damon,1,individuals,1,5,6,reef
+69670,Dentaliidae,Dentalium,sp.,1,individuals,2,3,6,reef
+69670,Nuculidae,Palaeonucula,strigilata,1,individuals,3,2,6,reef
+69670,Euomphalidae,Euomphalus,sp.,1,individuals,1,1,1,reef
+69670,Diplospirellidae,Diplospirella,sufflata,1,individuals,1,1,2,reef
+69670,Schizogoniidae,Schizogonium,serratum,3,individuals,1,5,6,reef
+69670,Koninckinidae,Amphiclina,speciosa,1,individuals,1,1,2,reef
+69670,Cassianellidae,Cassianella,ampezzana,2,individuals,1,1,2,reef
+69670,Limidae,Badiotella,sp.,1,individuals,1,1,2,reef
+69670,Thamnasteriidae,Thamnasteria,sp.,2,individuals,1,8,2,reef
+69670,Zygopleuridae,Zygopleura,arctecostata,1,individuals,1,1,4,reef
+69670,Cassianellidae,Cassianella,beyrichii,1,individuals,1,1,2,reef
+69670,Wortheniellidae,Rinaldoella,muensteri,1,individuals,1,1,4,reef
+69670,Cassianellidae,Cassianella,euglyphoides,2,individuals,1,1,2,reef
+69670,Naticopsidae,Naticopsis,subelongata,2,individuals,1,5,6,reef
+69670,Mathildidae,Teretrina,bolina,1,individuals,1,6,6,reef
+69670,Pseudomelaniidae,Pseudomelania,muensteri,3,individuals,1,10,6,reef
+69670,Cassianellidae,Cassianella,bidorsata,1,individuals,1,1,2,reef
+69670,Cassianellidae,Cassianella,tenuistria,1,individuals,1,1,2,reef
+69671,Stellispongiidae,Peronidella,subcaespitosa,1,individuals,1,1,2,reef
+69671,Margarophylliidae,Margarosmilia,sp.,15,individuals,1,8,2,reef
+69671,Bakevelliidae,Cultriopsis,angulata,1,individuals,1,1,2,reef
+69671,Sestrostomellidae,Himatella,milleporata,1,individuals,1,1,2,reef
+69671,Schizogoniidae,Schizogonium,scalare,1,individuals,1,5,6,reef
+69671,Eucyclidae,Calliotropis,damon,1,individuals,1,5,6,reef
+69671,Bakevelliidae,Gervillia,angusta,3,individuals,2,1,2,reef
+69671,Parallelodontidae,Parallelodon,sp.,1,individuals,1,1,5,reef
+69671,Gordenellidae,Promathildia,sp.,1,individuals,1,10,6,reef
+69671,Reimaniphylliidae,Retiophyllia,sp.,1,individuals,1,8,2,reef
+69671,Naticopsidae,Naticopsis,expansa,2,individuals,1,5,6,reef
+69671,Nuculidae,Palaeonucula,strigilata,1,individuals,3,2,6,reef
+69671,Cassianellidae,Cassianella,decussata,4,individuals,1,1,2,reef
+69671,Anoptychiidae,Anoptychia,sp.,3,individuals,1,10,6,reef
+69671,Pectinidae,Granulochlamys,tubulifer,1,individuals,1,1,4,reef
+69671,Nuculanidae,Nuculana,sulcellata,2,individuals,3,2,6,reef
+69671,Thamnasteriidae,Thamnasteria,sp.,2,individuals,1,8,2,reef
+69671,Wortheniellidae,Rinaldoella,subgranulata,1,individuals,1,1,4,reef
+69671,Loxonematidae,Loxonema,sp.,1,individuals,1,1,4,reef
+69671,Coelostylinidae,Euchrysalis,fusiformis,1,individuals,1,10,6,reef
+69671,,Koilocoenia,sp.,1,individuals,1,6,2,reef
+69671,Margarophylliidae,Margarosmilia,sp.,1,individuals,1,8,2,reef
+69672,Limidae,Lima,sp.,1,individuals,1,1,5,reef
+69672,Neritopsidae,Cassianopsis,armata,2,individuals,1,10,6,reef
+69672,Prostyliferidae,Ptychostoma,mojsisovicsi,10,individuals,1,5,6,reef
+69672,Purpurinidae,Angularia,subpleurotomaria,3,individuals,1,5,6,reef
+69672,Coelostylinidae,Coelostylina,sp.,4,individuals,1,10,6,reef
+69672,Pectinidae,Pecten,sp.,2,individuals,1,1,4,reef
+69672,Dentaliidae,Plagioglypta,undulata,2,individuals,2,3,6,reef
+69672,Prostyliferidae,Ptychostoma,pleurotomoides,1,individuals,1,5,6,reef
+69672,Parallelodontidae,Parallelodon,curionii,2,individuals,1,1,5,reef
+69672,Isocrinidae,Isocrinus,tyrolensis,1,individuals,1,1,2,reef
+69672,Eucycloscalidae,Eucycloscala,sp.,1,individuals,1,5,6,reef
+69672,Naticopsidae,Hologyra,cassiana,13,individuals,1,5,6,reef
+69672,Cidaridae,Cidaris,fasciculata,1,individuals,1,5,6,reef
+69672,Coelostylinidae,Coelostylina,conica,3,individuals,1,10,6,reef
+69672,Nuculidae,Palaeonucula,strigilata,14,individuals,3,2,6,reef
+69672,Soleniscidae,Macrochilina,brevispira,2,individuals,1,6,6,reef
+69672,Cidaridae,Cidaris,flexuosa,1,individuals,1,5,6,reef
+69672,Bakevelliidae,Gervillia,sp.,1,individuals,2,1,2,reef
+69672,Cassianellidae,Cassianella,ampezzana,4,individuals,1,1,2,reef
+69672,Protorculidae,Atorcula,canalifera,4,individuals,1,10,6,reef
+69672,,Cidaris,hausmanni,1,individuals,1,5,6,reef
+69672,Ampullinidae,Ampullina,subhybridica,7,individuals,1,5,6,reef
+69673,,Pseudochrysalis,sp.,1,individuals,1,10,6,reef
+69673,Cidaridae,Cidaris,sp.,1,individuals,1,5,6,reef
+69673,Cassianellidae,Cassianella,sp.,1,individuals,1,1,2,reef
+69673,Bakevelliidae,Gervillia,angusta,1,individuals,2,1,2,reef
+69673,Encrinidae,Zardinicrinus,granulosus,1,individuals,1,1,2,reef
+69673,Polygyrinidae,Polygyrina,lommeli,60,individuals,1,1,4,reef
+69673,Loxonematidae,Loxonema,turritelliformis,3,individuals,1,1,4,reef
+69673,Dentaliidae,Plagioglypta,undulata,11,individuals,2,3,6,reef
+69673,Coelostylinidae,Turristylus,triadicus,1,individuals,1,10,6,reef
+69673,Nuculidae,Palaeonucula,strigilata,6,individuals,3,2,6,reef
+69674,Ampullinidae,Ampullina,sanctaecrucis,4,individuals,1,5,6,reef
+69674,Coelostylinidae,Coelostylina,sp.,1,individuals,1,10,6,reef
+69674,Cyrtinidae,Cyrtina,sp.,1,individuals,1,1,2,reef
+69674,Ampullinidae,Ampullina,paludinaris,1,individuals,1,5,6,reef
+69674,Limopsidae,Hoferia,sp.,1,individuals,1,1,4,reef
+69674,Cassianellidae,Cassianella,beyrichii,3,individuals,1,1,2,reef
+69674,Palaeocarditidae,Palaeocardita,crenata,1,individuals,11,1,4,reef
+69674,Nuculanidae,Nuculana,sulcellata,1,individuals,3,2,6,reef
+69674,Coelostylinidae,Spirochrysalis,nympha,1,individuals,1,10,6,reef
+69674,Zygopleuridae,Zygopleura,arctecostata,1,individuals,1,1,4,reef
+69674,Cassianellidae,Cassianella,ampezzana,11,individuals,1,1,2,reef
+69675,Protorculidae,Atorcula,canalifera,2,individuals,1,10,6,shallow subtidal indet.
+69675,Cassianellidae,Cassianella,ampezzana,40,individuals,1,1,2,shallow subtidal indet.
+69675,Conophyllidae,Omphalophyllia,recondita,3,individuals,1,8,2,shallow subtidal indet.
+69675,Ampullinidae,Ampullina,sanctaecrucis,48,individuals,1,5,6,shallow subtidal indet.
+69675,Parallelodontidae,Parallelodon,sp.,1,individuals,1,1,5,shallow subtidal indet.
+69675,Isocrinidae,Isocrinus,tyrolensis,1,individuals,1,1,2,shallow subtidal indet.
+69675,Spirostylidae,Euthystylus,sp.,1,individuals,1,1,4,shallow subtidal indet.
+69675,Cassianellidae,Cassianella,beyrichii,12,individuals,1,1,2,shallow subtidal indet.
+69675,Limidae,Mysidioptera,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69675,Trochidae,Solarioconulus,nudus,1,individuals,1,5,6,shallow subtidal indet.
+69676,Lucinidae,Schafhaeutlia,sp.,1,individuals,4,9,4,shallow subtidal indet.
+69676,Settsassiidae,Katosira,seelandica,1,individuals,1,10,6,shallow subtidal indet.
+69676,Nuculanidae,Nuculana,sulcellata,19,individuals,3,2,6,shallow subtidal indet.
+69676,Ampullinidae,Ampullina,sanctaecrucis,13,individuals,1,5,6,shallow subtidal indet.
+69676,Gordenellidae,Promathildia,subornata,1,individuals,1,10,6,shallow subtidal indet.
+69676,Ampullinidae,Ampullina,paludinaris,14,individuals,1,5,6,shallow subtidal indet.
+69676,Spirostylidae,Euthystylus,badioticus,4,individuals,1,1,4,shallow subtidal indet.
+69676,Eucycloscalidae,Eucycloscala,ornata,1,individuals,1,5,6,shallow subtidal indet.
+69676,Cassianellidae,Cassianella,beyrichii,3,individuals,1,1,2,shallow subtidal indet.
+69677,Pseudomelaniidae,Pseudomelania,miles,11,individuals,1,10,6,shallow subtidal indet.
+69677,Cassianellidae,Cassianella,beyrichii,3,individuals,1,1,2,shallow subtidal indet.
+69677,Mathildidae,Teretrina,bolina,1,individuals,1,6,6,shallow subtidal indet.
+69677,Zygopleuridae,Goniospira,armata,1,individuals,1,1,4,shallow subtidal indet.
+69677,Protorculidae,Atorcula,canalifera,2,individuals,1,10,6,shallow subtidal indet.
+69677,Palaeocarditidae,Palaeocardita,beneckei,1,individuals,11,1,4,shallow subtidal indet.
+69677,Trochidae,Anticonulus,sp.,1,individuals,1,5,6,shallow subtidal indet.
+69677,Stellispongiidae,Stellispongia,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69677,Cassianellidae,Cassianella,sp.,7,individuals,1,1,2,shallow subtidal indet.
+69677,Coelostylinidae,Trypanostylus,sp.,1,individuals,1,10,6,shallow subtidal indet.
+69677,Ampullinidae,Ampullina,sanctaecrucis,46,individuals,1,5,6,shallow subtidal indet.
+69677,Wortheniellidae,Wortheniella,canalifera,1,individuals,1,1,4,shallow subtidal indet.
+69677,Gordenellidae,Promathildia,subornata,1,individuals,1,10,6,shallow subtidal indet.
+69677,Ampullinidae,Ampullina,paludinaris,31,individuals,1,5,6,shallow subtidal indet.
+69677,Ptychomphalidae,Ptychomphalus,protei,1,individuals,1,5,6,shallow subtidal indet.
+69677,Coelostylinidae,Euchrysalis,pupaeformis,1,individuals,1,10,6,shallow subtidal indet.
+69677,Palaeocarditidae,Palaeocardita,pichleri,1,individuals,11,1,4,shallow subtidal indet.
+69677,Zygopleuridae,Zygopleura,obliquecostata,1,individuals,1,1,4,shallow subtidal indet.
+69677,Palaeocarditidae,Palaeocardita,crenata,2,individuals,11,1,4,shallow subtidal indet.
+69677,Nuculanidae,Nuculana,sulcellata,11,individuals,3,2,6,shallow subtidal indet.
+69677,Loxonematidae,Loxonema,sp.,1,individuals,1,1,4,shallow subtidal indet.
+69677,Anoptychiidae,Anoptychia,multitorquata,1,individuals,1,10,6,shallow subtidal indet.
+69678,Nuculanidae,Nuculana,sulcellata,5,individuals,3,2,6,shallow subtidal indet.
+69678,Tricolnaticopsidae,Pachyomphalus,uhligi,1,individuals,1,10,6,shallow subtidal indet.
+69678,Pseudomelaniidae,Pseudomelania,miles,4,individuals,1,10,6,shallow subtidal indet.
+69678,Preperonidellidae,Precorynella,auriformis,2,individuals,1,1,2,shallow subtidal indet.
+69678,Ampullinidae,Ampullina,sanctaecrucis,16,individuals,1,5,6,shallow subtidal indet.
+69678,Ampullinidae,Ampullina,paludinaris,52,individuals,1,5,6,shallow subtidal indet.
+69679,Margarophylliidae,Margarosmilia,sp.,2,individuals,1,8,2,shallow subtidal indet.
+69679,Cassianellidae,Cassianella,euglyphoides,1,individuals,1,1,2,shallow subtidal indet.
+69679,Palaeocarditidae,Palaeocardita,crenata,23,individuals,11,1,4,shallow subtidal indet.
+69679,Cassianellidae,Cassianella,aviculoides,1,individuals,1,1,2,shallow subtidal indet.
+69679,Limidae,Lima,sp.,1,individuals,1,1,5,shallow subtidal indet.
+69679,Cassianellidae,Cassianella,beyrichii,2,individuals,1,1,2,shallow subtidal indet.
+69679,Trochidae,Anticonulus,semipunctatus,1,individuals,1,5,6,shallow subtidal indet.
+69679,Cassianellidae,Cassianella,ampezzana,1,individuals,1,1,2,shallow subtidal indet.
+69679,Palaeocarditidae,Palaeocardita,beneckei,1,individuals,11,1,4,shallow subtidal indet.
+69679,Gordenellidae,Promathildia,subnodosa,1,individuals,1,10,6,shallow subtidal indet.
+69679,Craspedostomatidae,Natiria,acutecostata,1,individuals,1,6,4,shallow subtidal indet.
+69679,Pectinidae,Pecten,sp.,2,individuals,1,1,4,shallow subtidal indet.
+69679,Parallelodontidae,Parallelodon,imbricarium,7,individuals,1,1,5,shallow subtidal indet.
+69679,Cassianellidae,Cassianella,sp.,13,individuals,1,1,2,shallow subtidal indet.
+69679,Coelostylinidae,Turristylus,triadicus,1,individuals,1,10,6,shallow subtidal indet.
+69679,Cidaridae,Rhabdocidaris,subcoronata,1,individuals,1,5,6,shallow subtidal indet.
+69679,Eucycloscalidae,Eucycloscala,sp.,2,individuals,1,5,6,shallow subtidal indet.
+69679,Parallelodontidae,Parallelodon,impressum,2,individuals,1,1,5,shallow subtidal indet.
+69679,Gordenellidae,Promathildia,subornata,1,individuals,1,10,6,shallow subtidal indet.
+69679,Ampullinidae,Ampullina,sanctaecrucis,65,individuals,1,5,6,shallow subtidal indet.
+69679,,Septihoernesia,bipartita,2,individuals,1,1,1,shallow subtidal indet.
+69679,Nuculanidae,Nuculana,dubia,24,individuals,3,2,6,shallow subtidal indet.
+69680,Ampullinidae,Ampullina,sanctaecrucis,2,individuals,1,5,6,shallow subtidal indet.
+69680,Nuculanidae,Nuculana,sulcellata,9,individuals,3,2,6,shallow subtidal indet.
+69680,Cassianellidae,Cassianella,beyrichii,1,individuals,1,1,2,shallow subtidal indet.
+69680,Dentaliidae,Dentalium,sp.,1,individuals,2,3,6,shallow subtidal indet.
+69680,Parallelodontidae,Parallelodon,sp.,1,individuals,1,1,5,shallow subtidal indet.
+69680,Coelostylinidae,Coelostylina,crassa,1,individuals,1,10,6,shallow subtidal indet.
+69680,Coelostylinidae,Glyptochrysalis,anthophylloides,1,individuals,1,10,6,shallow subtidal indet.
+69680,Zygopleuridae,Ampezzopleura,tenuis,1,individuals,1,1,4,shallow subtidal indet.
+69680,Gordenellidae,Promathildia,subornata,1,individuals,1,10,6,shallow subtidal indet.
+69680,Ampullinidae,Ampullina,paludinaris,10,individuals,1,5,6,shallow subtidal indet.
+69681,Koninckinidae,Koninckina,leonhardi,54,individuals,1,1,2,shallow subtidal indet.
+69681,Protorculidae,Atorcula,canalifera,1,individuals,1,10,6,shallow subtidal indet.
+69681,Ampullinidae,Ampullina,sp.,1,individuals,1,5,6,shallow subtidal indet.
+69681,,Leptochondria,sp.,1,individuals,1,1,1,shallow subtidal indet.
+69681,Polygyrinidae,Polygyrina,lommeli,10,individuals,1,1,4,shallow subtidal indet.
+69681,Dentaliidae,Plagioglypta,undulata,12,individuals,2,3,6,shallow subtidal indet.
+69681,Goniasmatidae,Cheilotomona,acuta,1,individuals,1,10,6,shallow subtidal indet.
+69681,Naticopsidae,Naticopsis,expansa,2,individuals,1,5,6,shallow subtidal indet.
+69681,Cassianellidae,Cassianella,sp.,2,individuals,1,1,2,shallow subtidal indet.
+69681,Malletiidae,Prosoleptus,lineatus,3,individuals,11,2,4,shallow subtidal indet.
+69681,Rhaphistomellidae,Rhaphistomella,radians,11,individuals,1,5,6,shallow subtidal indet.
+69681,Diplospirellidae,Diplospirella,uhligii,1,individuals,1,1,2,shallow subtidal indet.
+69681,Eunemopsidae,Pseudoclanculus,cassianus,1,individuals,1,5,6,shallow subtidal indet.
+69681,Plicatulidae,Plicatula,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69681,Halobiidae,Halobia,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69681,Nuculidae,Palaeonucula,strigilata,3,individuals,3,2,6,shallow subtidal indet.
+69682,Nuculidae,Palaeonucula,strigilata,1,individuals,3,2,6,shallow subtidal indet.
+69682,Koninckinidae,Koninckina,leonhardi,35,individuals,1,1,2,shallow subtidal indet.
+69682,Goniasmatidae,Cheilotomona,acuta,1,individuals,1,10,6,shallow subtidal indet.
+69682,Limidae,Lima,areolaris,1,individuals,1,1,5,shallow subtidal indet.
+69682,Rhaphistomellidae,Rhaphistomella,radians,4,individuals,1,5,6,shallow subtidal indet.
+69683,Retziidae,Retzia,lyrata,3,individuals,1,1,2,shallow subtidal indet.
+69683,Koninckinidae,Koninckina,leonhardi,47,individuals,1,1,2,shallow subtidal indet.
+69683,Limidae,Mysidioptera,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69683,Dentaliidae,Dentalium,latum,1,individuals,2,3,6,shallow subtidal indet.
+69683,Polygyrinidae,Polygyrina,lommeli,2,individuals,1,1,4,shallow subtidal indet.
+69683,Goniasmatidae,Cheilotomona,acuta,2,individuals,1,10,6,shallow subtidal indet.
+69683,Dentaliidae,Dentalium,simile,1,individuals,2,3,6,shallow subtidal indet.
+69683,Gordenellidae,Promathildia,pygmaea,1,individuals,1,10,6,shallow subtidal indet.
+69683,Malletiidae,Prosoleptus,lineatus,1,individuals,11,2,4,shallow subtidal indet.
+69683,Wortheniellidae,Rinaldoella,subgranulata,2,individuals,1,1,4,shallow subtidal indet.
+69684,Ampullinidae,Ampullina,subhybridica,1,individuals,1,5,6,shallow subtidal indet.
+69684,Anoptychiidae,Anoptychia,multitorquata,12,individuals,1,10,6,shallow subtidal indet.
+69684,Nuculidae,Palaeonucula,strigilata,46,individuals,3,2,6,shallow subtidal indet.
+69684,Palaeocarditidae,Palaeocardita,crenata,43,individuals,11,1,4,shallow subtidal indet.
+69684,Cassianellidae,Cassianella,gryphaeata,1,individuals,1,1,2,shallow subtidal indet.
+69684,Limidae,Lima,sp.,2,individuals,1,1,5,shallow subtidal indet.
+69684,Cassianellidae,Cassianella,ampezzana,17,individuals,1,1,2,shallow subtidal indet.
+69684,Protorculidae,Atorcula,canalifera,4,individuals,1,10,6,shallow subtidal indet.
+69684,Cassianellidae,Cassianella,beyrichii,1,individuals,1,1,2,shallow subtidal indet.
+69684,Malletiidae,Palaeoneilo,elliptica,4,individuals,11,2,4,shallow subtidal indet.
+69684,Trochidae,Anticonulus,sp.,1,individuals,1,5,6,shallow subtidal indet.
+69684,Bakevelliidae,Gervillia,angusta,2,individuals,2,1,2,shallow subtidal indet.
+69684,Megalodontidae,Megalodon,rimosus,1,individuals,2,1,1,shallow subtidal indet.
+69684,Parallelodontidae,Parallelodon,curionii,1,individuals,1,1,5,shallow subtidal indet.
+69684,Lucinidae,Schafhaeutlia,astartiformis,2,individuals,4,9,4,shallow subtidal indet.
+69684,Coelostylinidae,Coelostylina,karreri,1,individuals,1,10,6,shallow subtidal indet.
+69684,Dentaliidae,Plagioglypta,undulata,38,individuals,2,3,6,shallow subtidal indet.
+69684,Anoptychiidae,Anoptychia,sp.,1,individuals,1,10,6,shallow subtidal indet.
+69684,Proconulidae,Flemmingia,bistriata,2,individuals,1,5,6,shallow subtidal indet.
+69684,Entoliidae,Entolium,saccoi,1,individuals,1,1,4,shallow subtidal indet.
+69684,Eunemopsidae,Pseudoclanculus,cassianus,2,individuals,1,5,6,shallow subtidal indet.
+69684,Rhaphistomellidae,Rhaphistomella,radians,22,individuals,1,5,6,shallow subtidal indet.
+69685,Megalodontidae,Megalodon,sp.,1,individuals,2,1,1,shallow subtidal indet.
+69685,Entoliidae,Entolioides,subdemissus,2,individuals,1,1,4,shallow subtidal indet.
+69685,Eunemopsidae,Pseudoclanculus,cassianus,2,individuals,1,5,6,shallow subtidal indet.
+69685,Rhaphistomellidae,Rhaphistomella,radians,11,individuals,1,5,6,shallow subtidal indet.
+69685,Anoptychiidae,Anoptychia,multitorquata,7,individuals,1,10,6,shallow subtidal indet.
+69685,Ampullinidae,Ampullina,sanctaecrucis,2,individuals,1,5,6,shallow subtidal indet.
+69685,Nuculidae,Palaeonucula,strigilata,35,individuals,3,2,6,shallow subtidal indet.
+69685,Palaeocarditidae,Palaeocardita,crenata,22,individuals,11,1,4,shallow subtidal indet.
+69685,Eunemopsidae,Pseudoclanculus,sp.,1,individuals,1,5,6,shallow subtidal indet.
+69685,Cassianellidae,Cassianella,gryphaeata,4,individuals,1,1,2,shallow subtidal indet.
+69685,Cassianellidae,Cassianella,ampezzana,6,individuals,1,1,2,shallow subtidal indet.
+69685,Protorculidae,Atorcula,canalifera,2,individuals,1,10,6,shallow subtidal indet.
+69685,Pectinidae,Pecten,sp.,1,individuals,1,1,4,shallow subtidal indet.
+69685,Malletiidae,Palaeoneilo,elliptica,2,individuals,11,2,4,shallow subtidal indet.
+69685,Siliquariidae,Siliquaria,triadica,1,individuals,1,1,1,shallow subtidal indet.
+69685,Lucinidae,Schafhaeutlia,astartiformis,1,individuals,4,9,4,shallow subtidal indet.
+69685,Pinnidae,Pinna,sp.,1,individuals,2,1,2,shallow subtidal indet.
+69685,Pectinidae,Granulochlamys,tubulifer,1,individuals,1,1,4,shallow subtidal indet.
+69685,Cassianellidae,Cassianella,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69685,Myophoriidae,Myophoria,sp.,2,individuals,11,1,4,shallow subtidal indet.
+69685,Dentaliidae,Plagioglypta,undulata,25,individuals,2,3,6,shallow subtidal indet.
+69686,Entoliidae,Entolioides,subdemissus,1,individuals,1,1,4,shallow subtidal indet.
+69686,Zygopleuridae,Zygopleura,haueri,1,individuals,1,1,4,shallow subtidal indet.
+69686,Anoptychiidae,Anoptychia,multitorquata,1,individuals,1,10,6,shallow subtidal indet.
+69686,Nuculidae,Palaeonucula,strigilata,11,individuals,3,2,6,shallow subtidal indet.
+69686,Palaeocarditidae,Palaeocardita,crenata,5,individuals,11,1,4,shallow subtidal indet.
+69686,,Septihoernesia,sp.,1,individuals,1,1,1,shallow subtidal indet.
+69686,Cassianellidae,Cassianella,ampezzana,4,individuals,1,1,2,shallow subtidal indet.
+69686,Protorculidae,Atorcula,canalifera,2,individuals,1,10,6,shallow subtidal indet.
+69686,Malletiidae,Palaeoneilo,elliptica,1,individuals,11,2,4,shallow subtidal indet.
+69686,Dentaliidae,Plagioglypta,undulata,11,individuals,2,3,6,shallow subtidal indet.
+69686,Dentaliidae,Dentalium,simile,2,individuals,2,3,6,shallow subtidal indet.
+69687,Dentaliidae,Plagioglypta,undulata,10,individuals,2,3,6,shallow subtidal indet.
+69687,Dentaliidae,Dentalium,simile,6,individuals,2,3,6,shallow subtidal indet.
+69687,Rhaphistomellidae,Rhaphistomella,radians,3,individuals,1,5,6,shallow subtidal indet.
+69687,Pseudomelaniidae,Pseudomelania,miles,1,individuals,1,10,6,shallow subtidal indet.
+69687,Entoliidae,Entolioides,subdemissus,2,individuals,1,1,4,shallow subtidal indet.
+69687,Nuculidae,Palaeonucula,strigilata,16,individuals,3,2,6,shallow subtidal indet.
+69687,Palaeocarditidae,Palaeocardita,crenata,4,individuals,11,1,4,shallow subtidal indet.
+69687,Cassianellidae,Cassianella,beyrichii,1,individuals,1,1,2,shallow subtidal indet.
+69687,Parallelodontidae,Parallelodon,curionii,1,individuals,1,1,5,shallow subtidal indet.
+69687,Cassianellidae,Cassianella,ampezzana,1,individuals,1,1,2,shallow subtidal indet.
+69687,Cassianellidae,Cassianella,decussata,1,individuals,1,1,2,shallow subtidal indet.
+69687,Coelostylinidae,Coelostylina,conica,1,individuals,1,10,6,shallow subtidal indet.
+69687,Protorculidae,Atorcula,canalifera,4,individuals,1,10,6,shallow subtidal indet.
+69687,Siliquariidae,Siliquaria,triadica,1,individuals,1,1,1,shallow subtidal indet.
+69687,Ptychomphalidae,Ptychomphalus,sp.,1,individuals,1,5,6,shallow subtidal indet.
+69688,Nuculanidae,Nuculana,dubia,1,individuals,3,2,6,shallow subtidal indet.
+69688,Dentaliidae,Plagioglypta,undulata,2,individuals,2,3,6,shallow subtidal indet.
+69688,,Cidaris,waechteri,1,individuals,1,5,6,shallow subtidal indet.
+69688,Diplospirellidae,Diplospirella,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69688,Mathildidae,Teretrina,bolina,1,individuals,1,6,6,shallow subtidal indet.
+69688,Rhaphistomellidae,Rhaphistomella,radians,24,individuals,1,5,6,shallow subtidal indet.
+69688,Margarophylliidae,Margarosmilia,sp.,2,individuals,1,8,2,shallow subtidal indet.
+69688,Schizogoniidae,Schizogonium,scalare,1,individuals,1,5,6,shallow subtidal indet.
+69688,Rhynchonellidae,Rhynchonella,sp.,1,individuals,1,1,2,shallow subtidal indet.
+69688,Anoptychiidae,Anoptychia,carinata,1,individuals,1,10,6,shallow subtidal indet.
+69688,Naticopsidae,Naticopsis,sp.,1,individuals,1,5,6,shallow subtidal indet.
+69688,Encrinidae,Zardinicrinus,granulosus,1,individuals,1,1,2,shallow subtidal indet.
+69688,Reimaniphylliidae,Retiophyllia,sp.,1,individuals,1,8,2,shallow subtidal indet.
+69688,Nuculidae,Palaeonucula,strigilata,9,individuals,3,2,6,shallow subtidal indet.
+69688,Megalodontidae,Megalodon,rostratus,1,individuals,2,1,2,shallow subtidal indet.
+69688,Palaeocarditidae,Palaeocardita,crenata,14,individuals,11,1,4,shallow subtidal indet.
+69688,Cassianellidae,Cassianella,beyrichii,6,individuals,1,1,2,shallow subtidal indet.
+69688,Polygyrinidae,Polygyrina,lommeli,2,individuals,1,1,4,shallow subtidal indet.
+69688,Malletiidae,Palaeoneilo,elliptica,2,individuals,11,2,4,shallow subtidal indet.
+69688,Cidaridae,Balanocidaris,dorsata,1,individuals,1,5,6,shallow subtidal indet.
+69688,Coelostylinidae,Euchrysalis,fusiformis,1,individuals,1,10,6,shallow subtidal indet.
+69688,Malletiidae,Prosoleptus,lineatus,16,individuals,11,2,4,shallow subtidal indet.
+69688,Zygopleuridae,Zygopleura,obliquecostata,1,individuals,1,1,4,shallow subtidal indet.
+69689,Malletiidae,Prosoleptus,lineatus,14,individuals,11,2,4,shallow subtidal indet.
+69689,Dentaliidae,Dentalium,decoratum,4,individuals,2,3,6,shallow subtidal indet.
+69689,Dentaliidae,Plagioglypta,undulata,1,individuals,2,3,6,shallow subtidal indet.
+69689,Rhaphistomellidae,Rhaphistomella,radians,38,individuals,1,5,6,shallow subtidal indet.
+69689,Coelostylinidae,Coelostylina,sp.,1,individuals,1,10,6,shallow subtidal indet.
+69689,Coelostylinidae,Trypanostylus,konincki,1,individuals,1,10,6,shallow subtidal indet.
+69689,Nuculidae,Palaeonucula,strigilata,10,individuals,3,2,6,shallow subtidal indet.
+69689,Polygyrinidae,Polygyrina,lommeli,2,individuals,1,1,4,shallow subtidal indet.
+69689,Malletiidae,Palaeoneilo,elliptica,6,individuals,11,2,4,shallow subtidal indet.
+69690,Polygyrinidae,Polygyrina,lommeli,16,individuals,1,1,4,shallow subtidal indet.
+69690,Cidaridae,Cidaris,brauni,1,individuals,1,5,6,shallow subtidal indet.
+69690,Malletiidae,Palaeoneilo,elliptica,5,individuals,11,2,4,shallow subtidal indet.
+69690,Nuculanidae,Nuculana,dubia,1,individuals,3,2,6,shallow subtidal indet.
+69690,Malletiidae,Prosoleptus,lineatus,36,individuals,11,2,4,shallow subtidal indet.
+69690,Dentaliidae,Dentalium,decoratum,4,individuals,2,3,6,shallow subtidal indet.
+69690,Dentaliidae,Plagioglypta,undulata,3,individuals,2,3,6,shallow subtidal indet.
+69690,Rhaphistomellidae,Rhaphistomella,radians,68,individuals,1,5,6,shallow subtidal indet.
+69690,Anoptychiidae,Anoptychia,carinata,2,individuals,1,10,6,shallow subtidal indet.
+69690,Loxonematidae,Loxonema,turritelliformis,1,individuals,1,1,4,shallow subtidal indet.
+69690,Coelostylinidae,Coelostylina,conica,1,individuals,1,10,6,shallow subtidal indet.
+69690,Nuculidae,Palaeonucula,strigilata,48,individuals,3,2,6,shallow subtidal indet.
+69690,Terebratulidae,Terebratula,neglecta,1,individuals,1,1,2,shallow subtidal indet.
+69691,Goniasmatidae,Cheilotomona,sp.,1,individuals,1,10,6,shallow subtidal indet.
+69691,Nuculidae,Palaeonucula,strigilata,4,individuals,3,2,6,shallow subtidal indet.
+69691,Malletiidae,Palaeoneilo,elliptica,1,individuals,3,2,6,shallow subtidal indet.
+69691,Dentaliidae,Dentalium,simile,1,individuals,2,3,6,shallow subtidal indet.
+69691,Polygyrinidae,Polygyrina,lommeli,2,individuals,1,1,4,shallow subtidal indet.
+69691,Cidaridae,Cidaris,brauni,1,individuals,1,5,6,shallow subtidal indet.
+69691,,Cidaris,waechteri,1,individuals,1,5,6,shallow subtidal indet.
+69691,Mathildidae,Teretrina,bolina,1,individuals,1,6,6,shallow subtidal indet.
+69691,Malletiidae,Prosoleptus,lineatus,1,individuals,11,2,4,shallow subtidal indet.
+69691,Dentaliidae,Plagioglypta,undulata,1,individuals,2,3,6,shallow subtidal indet.
+69691,Rhaphistomellidae,Rhaphistomella,radians,3,individuals,1,5,6,shallow subtidal indet.

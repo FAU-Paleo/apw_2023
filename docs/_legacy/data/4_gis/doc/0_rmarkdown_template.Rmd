@@ -1,0 +1,34 @@
+---
+title: "My awesome Rmarkdown document"
+author: "ME"
+date: '`r Sys.Date()`'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+# Heading level 1
+
+This is some random text. Usual markdown stuff. 
+
+## Some code examples
+
+This is some basic calculation, creating random values. 
+```{r calc, echo= TRUE}
+# comment is also good
+a <- rnorm(15)
+a
+```
+
+This bit of code plots what was created in the previous bit: 
+
+```{r plotting, echo= TRUE, plot=TRUE, fig.height=5.5}
+plot(a)
+``` 
+
+If everything was correct there should be a figure above this text. 
+
+
