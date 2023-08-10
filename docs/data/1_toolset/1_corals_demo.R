@@ -1,10 +1,10 @@
 # Script to demonstrate the basic capabilities of R
 # Using the divDyn toolchain
-# Ádám T. Kocsis, 2021-10-15, Erlangen
+# Ádám T. Kocsis, 2023-08-10, Erlangen
 # CC BY 4.0
 
 # check whether packages are present, otherwise install them
-required <- c("divDyn", "chronosphere", "rgdal")
+required <- c("divDyn", "chronosphere", "sf")
 installed <- installed.packages()
 
 # a for loop: iterate for all packages in required
@@ -26,7 +26,7 @@ message(getwd())
 # using external packages
 library(divDyn)
 library(chronosphere)
-library(rgdal)
+library(sf)
 
 # using built-in data
 data(stages) # stage-level timescale
@@ -85,7 +85,7 @@ saveRDS(file="corals_export/divDyn_original.rds", dd)
 
 # downloading and drawing a world map
 ne <-fetch("NaturalEarth")
-plot(ne, col="gray", main="Coral occurrences from the world")
+plot(ne$geometry, col="gray", main="Coral occurrences from the world")
 
 # with the coral occurrences
 coordinates <- unique(corals[,c("lng","lat")])
@@ -93,7 +93,7 @@ coordinates <- unique(corals[,c("lng","lat")])
 points(coordinates, pch=3, col="#AA223355")
 
 # definition of functions
-plot_occs_from_stage <- function(x, stage, ts=stages, map=ne){
+plot_occs_from_stage <- function(x, stage, ts=stages, map=ne$geometry){
 	# occurrences from the stage
 	thisStage <- x[which(x$stg==stage),]
 

@@ -1,118 +1,18 @@
 ---
 title: "Module 7: Paleogeography"
 layout: "post" 
-permalink: "gis/"
+permalink: "paleogeography/"
 ---
 
-### Schedule
+# Heading
 
-| From  | To    | What                                                    |
-|-------|-------|---------------------------------------------------------|
-| 9:00  | 9:30  | General introduction to GIS in R                        |
-| 9:30  | 10:15 | Setting up the Spatial toolchain + programming problems |
-| 10:15 | 10:30 | **Coffee break**                                        |
-| 10:30 | 11:45 | Vector spatial data basics                              |
-|-------|-------|---------------------------------------------------------|
-| 11:45 | 13:00 | **Lunch Break**                                         |
-|-------|-------|---------------------------------------------------------|
-| 13:00 | 14:15 | Raster spatial data basics                              |
-| 14:15 | 14:30 | **Coffee break**                                        |
-| 14:30 | 15:30 | Paleogeographic reconstruction - gplates, rgplates      |
-| 15:30 | 15:45 | **Coffee break**                                        |
-| 15:45 | 17:30 | Paleogeographic reconstructions continued               |
+- This is a link to an external file (this one is on Zenodo): [metadata.txt](https://zenodo.org/record/8232301/files/metadata.txt?download=1) 
 
+- This is a link to a file on this page: [other metadata.txt]({{site.baseurl}}/data/7_paleogeography/metadata.txt)
 
-### The R-markdown
+this is an image:
 
-- template file: [0_rmarkdown_template.Rmd](https://www.dropbox.com/s/07n1fduh145h251/0_rmarkdown_template.Rmd?dl=1)
-
-##### Rendering the .Rmd file
-
-- Option 1: Open the Rmd file in RStudio and click on the **knit** button in the grahical interface 
-- Option 2: Open an R console and run this:
-
-```R
-# if you do not have rmarkdown:
-# install.packages("rmarkdown")
-
-# once you have it installed
-rmarkdown::render(file.path(path_to_dir, "0_rmarkdown_template.Rmd"))
-```
-
-... where `path_to_dir` is the path to the directory where you put the .Rmd file (either relative or absolute path). You can set the `output` field in the front matter to either `pdf_document` or `html_document`.
-Note that you might be required to install some additional tools to build these files. 
-
-### Slides
-
-- [Introduction to spatial data in R]({{site.baseurl}}/slides/4_gis/2022-08-29_GIS_basics.pdf)
-
-### Useful links
-
-- [https://r-spatial.org/](https://r-spatial.org/)
-- [Spatial Data Scince with applications in R](https://keen-swartz-3146c4.netlify.app/)
-- [Simple Features for R](https://r-spatial.github.io/sf/)
-- [Guide to terra](https://rspatial.org/terra/index.html)
-
-### Required packages
-
-- [sp](https://cran.r-project.org/package=sp)
-- [rgdal](https://cran.r-project.org/package=rgdal)
-- [rgeos](https://cran.r-project.org/package=rgeos)
-- [sf](https://cran.r-project.org/package=sf)
-- [raster](https://cran.r-project.org/package=raster)
-- [terra](https://cran.r-project.org/package=terra)
-- [geosphere](https://cran.r-project.org/package=geosphere)
-
-##### Attaching R packages from variables
-
-```R
-onePackage <- c("terra")
-library(onePackage, character.only=TRUE)
-```
-
-
-### Vector information (object view)
-
-##### Example Data
-
-- [Natural Earth](https://www.naturalearthdata.com/) land polygons: [ne_land.zip]({{site.baseurl}}/data/4_gis/data/ne_land.zip)
-- [World Administrative Boundaries](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/): [world_admin.zip]({{site.baseurl}}/data/4_gis/data/world_admin.zip)
-- [IUCN Range data](https://www.iucnredlist.org/resources/spatial-data-download) (Chameleons): [CHAMELEONS.zip](https://www.dropbox.com/s/39uw249y6ppifx5/CHAMELEONS.zip?dl=1)
-
-##### Example Code
-
-- Example code for vector data: [1_vector.R]({{site.baseurl}}/data/4_gis/code/1_vector.R)
-- Code updated after class for vector data: [1_vector_clean.R]({{site.baseurl}}/data/4_gis/code/1_vector_clean.R)
-
-### Raster information (field view) 
-
-##### Example Data
-
-- The ETOPO1 Global relief model (resampled to 1x1 degree): [etopo1.tif]({{site.baseurl}}/data/4_gis/data/ETOPO1/ETOPO1_ice_c_20110606_tiff_1.tif)
-- WorldClim Bioclimatic variables:[wc2.1_10m_bio.zip](https://biogeo.ucdavis.edu/data/worldclim/v2.1/base/wc2.1_10m_bio.zip)
-
-##### Example Code
-
-- Original code for raster data: [2_raster.R]({{site.baseurl}}/data/4_gis/code/2_raster.R)
-- Code updated after class for raster data: [2_raster_clean.R]({{site.baseurl}}/data/4_gis/code/2_raster_clean.R)
-
-## Paleogeography
-
-##### GPlates-related
-
-- [GPlates](https://www.gplates.org/)
-- [GPlates Web Service](https://gwsdoc.gplates.org/)
-- [Quick tutorial for novices (FAU class)](https://adamkocsis.github.io/se3-gplates/)
-- [Full tutorial](https://sites.google.com/site/gplatestutorials/)
-
-##### rgplates R package 
-
-- [rgplates CRAN](https://cran.r-project.org/package=rgplates)
-- [rgplates GitHub](https://github.com/adamkocsis/rgplates)
-
-##### Code
-
-- Code to connect to the GPlates web service with rgplates: [3_rgplates_gws.R]({{site.baseurl}}/data/4_gis/code/3_rgplates_gws.R)
+![The caption of the image]({{site.baseurl}}/images/Icon-SummerSchool-150x150.png)
 
 
 
