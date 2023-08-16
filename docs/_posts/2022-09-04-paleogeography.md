@@ -1,5 +1,5 @@
 ---
-title: "Module 7: Paleogeography"
+title: "Module 6: Paleogeography"
 layout: "post" 
 permalink: "paleogeography/"
 ---

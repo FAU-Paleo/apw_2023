@@ -1,10 +1,10 @@
 ---
-title: "Module 4: Phylogenetics "
+title: "Module 3. Phylogenetics "
 layout: "post" 
 permalink: "phylogenetics/"
 ---
 
-# Module 4: Phylogenetics 
+# Module 3: Phylogenetics 
 
 - This is a link to an external file (this one is on Zenodo): [metadata.txt](https://zenodo.org/record/8232301/files/metadata.txt?download=1) 
 

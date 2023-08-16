@@ -6,23 +6,22 @@ Currently built at [https://fau-paleo.github.io/apw_2023/](https://fau-paleo.git
 
 The page is built with jekyll, a very neat ruby program which translates markdown documents to html and builds these into static websites. It is insanely powerful. The building process is executed by GitHub itself, you make the changes, commit and push them to the repository and in 1 minute they should be visible - given that everything you have done is ok. If you want to learn more about this, check out [this page](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll). 
 
-If you have Jekyll installed on your computer, you can also render and check out how the page looks like offline - but the page is so simple that this is not necessary.  
+If you have Jekyll installed on your computer, you can also render and check out how the page looks offline - but the page is so simple that this is not necessary.  
 
 ## Sharing material
 
 All actual files of the webpage are in the `docs` directory. **You are expected to edit the module-specific pages**, which are in the `docs/_posts` directory. These pages have a front matter (before the dashes), don't worry about those - except for the title, which you are welcome to change. Here is a table of what files were supposed to be edited by whom:
 
-| file                           | correspondent(s)      |
-|--------------------------------|-----------------------|
-| 2022-08-21-toolset.md          | Adam                  |
-| 2022-08-23-paleodiversity.md   | Emma and Wolfgang     |
-| 2022-08-25-global-diversity.md | Emma and Adam         |
-| 2022-08-27-phylogenetics.md    | Rachel and Laura      |
-| 2022-08-29-pyrate.md           | Daniele               |
-| 2022-08-31-div-cmr.md          | Lee Hsiang and Isaiah |
-| 2022-09-04-paleogeography.md   | Liz and Adam          |
-| 2022-09-05-niches.md           | Erin and Tom          |
-| 2022-09-07-morphometrics.md    | Ryan                  |
+| file                         | correspondent(s)        |
+|------------------------------|-------------------------|
+| 2022-08-21-toolset.md        | Adam, Emma              |
+| 2022-08-23-paleodiversity.md | Emma, Wolfgang and Adam |
+| 2022-08-27-phylogenetics.md  | Rachel                  |
+| 2022-08-29-pyrate.md         | Daniele                 |
+| 2022-08-31-div-cmr.md        | Lee Hsiang and Isaiah   |
+| 2022-09-04-paleogeography.md | Liz and Adam            |
+| 2022-09-05-niches.md         | Erin and Tom            |
+| 2022-09-07-morphometrics.md  | Ryan                    |
 	
 
 - Material from the previous year are avaiable at this GitHub repo: [GitHub previous year](https://github.com/FAU-Paleo/apw_2022). You can copy markdown from there if you wish. For the sake of convenience I included the old files (`images`, `data` and `slides` directories) in the new repo which are in the `docs/_legacy` directory.
@@ -40,17 +39,8 @@ All actual files of the webpage are in the `docs` directory. **You are expected 
 
 ## Suggested organisation scheme for files
 
-To help keep everything organsied, you'll find subfolders within the main data and slideshow folders under the name of your module(s). We suggest dividing your files as follows:
-
-1. Datasets, scripts, associated files 
-
-These should go in the `docs/data` directory: `{{site.baseurl}}/data/<your directory path>/filename.ext`
-The file `{{site.baseurl}}/data/1_toolset/metadata.txt` is built as `https://fau-paleo.github.io/apw_2022/data/1_toolset/metadata.txt`
-
-2. Slideshow presentations   
-These should go in the `docs/slides` directory: `{{site.baseurl}}/slides/<your directory path>/filename.ext`
-
-The markdown `{{site.baseurl}}/slides/1_toolset/slide_meta.txt` is built as `https://fau-paleo.github.io/apw_2022/slides/1_toolset/slide_meta.txt`
+To help keep everything organsied, you'll find subfolders within the main data directories under the name of your module(s). These should go in the `docs/data` directory: `{{site.baseurl}}/data/<your directory path>/filename.ext`
+The file `{{site.baseurl}}/data/1_toolset/metadata.txt` is built as `https://fau-paleo.github.io/apw_2023/data/1_toolset/metadata.txt`
 
 
 ## Markdown

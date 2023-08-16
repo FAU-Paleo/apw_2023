@@ -1,5 +1,5 @@
 ---
-title: "Module 9: Geometric morphometrics"
+title: "Module 8: Geometric morphometrics"
 layout: "post" 
 permalink: "morphometrics/"
 ---
