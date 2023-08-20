@@ -12,17 +12,17 @@ If you have Jekyll installed on your computer, you can also render and check out
 
 All actual files of the webpage are in the `docs` directory. **You are expected to edit the module-specific pages**, which are in the `docs/_posts` directory. These pages have a front matter (before the dashes), don't worry about those - except for the title, which you are welcome to change. Here is a table of what files were supposed to be edited by whom:
 
-| file                         | correspondent(s)        |
-|------------------------------|-------------------------|
-| 2022-08-21-toolset.md        | Adam, Emma              |
-| 2022-08-23-paleodiversity.md | Emma, Wolfgang and Adam |
-| 2022-08-27-phylogenetics.md  | Rachel                  |
-| 2022-08-29-pyrate.md         | Daniele                 |
-| 2022-08-31-div-cmr.md        | Lee Hsiang and Isaiah   |
-| 2022-09-04-paleogeography.md | Liz and Adam            |
-| 2022-09-05-niches.md         | Erin and Tom            |
-| 2022-09-07-morphometrics.md  | Ryan                    |
-	
+| file                         | correspondent(s)        | link                                                                                                         |
+|------------------------------|-------------------------|--------------------------------------------------------------------------------------------------------------|
+| 2022-08-21-toolset.md        | Adam, Emma              | [https://fau-paleo.github.io/apw_2023/toolset/](https://fau-paleo.github.io/apw_2023/toolset/)               |
+| 2022-08-23-paleodiversity.md | Emma, Wolfgang and Adam | [https://fau-paleo.github.io/apw_2023/paleodiversity/](https://fau-paleo.github.io/apw_2023/paleodiversity/) |
+| 2022-08-27-phylogenetics.md  | Rachel                  | [https://fau-paleo.github.io/apw_2023/phylogenetics/](https://fau-paleo.github.io/apw_2023/phylogenetics/)   |
+| 2022-08-29-pyrate.md         | Daniele                 | [https://fau-paleo.github.io/apw_2023/pyrate_ai/](https://fau-paleo.github.io/apw_2023/pyrate_ai/)           |
+| 2022-08-31-div-cmr.md        | Lee Hsiang and Isaiah   | [https://fau-paleo.github.io/apw_2023/cmr/](https://fau-paleo.github.io/apw_2023/cmr/)                       |
+| 2022-09-04-paleogeography.md | Liz and Adam            | [https://fau-paleo.github.io/apw_2023/paleogeography/](https://fau-paleo.github.io/apw_2023/paleogeography/) |
+| 2022-09-05-niches.md         | Erin and Tom            | [https://fau-paleo.github.io/apw_2023/niches/](https://fau-paleo.github.io/apw_2023/niches/)                 |
+| 2022-09-07-morphometrics.md  | Ryan                    | [https://fau-paleo.github.io/apw_2023/morphometrics/](https://fau-paleo.github.io/apw_2023/morphometrics/)   |
+
 
 - Material from the previous year are avaiable at this GitHub repo: [GitHub previous year](https://github.com/FAU-Paleo/apw_2022). You can copy markdown from there if you wish. For the sake of convenience I included the old files (`images`, `data` and `slides` directories) in the new repo which are in the `docs/_legacy` directory.
 
