@@ -1,6 +1,6 @@
 # Beta Diversity
 
-pt <- "https://fau-paleo.github.io/apw_2022/data/2_paleodiversity/"
+pt <- "https://fau-paleo.github.io/apw_2023/data/2_paleodiversity/"
 rads <- read.csv(paste0(pt,"Radiolarians.csv"), header=TRUE)
 
 # Some manipulations for later

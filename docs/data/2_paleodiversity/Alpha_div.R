@@ -6,7 +6,7 @@ library(vegan)
 
 # PBDB collection 31618
 # Bangtoupo F30, Qingyan, China: Pelsonian - Illyrian, China
-pt <- "https://fau-paleo.github.io/apw_2022/data/2_paleodiversity/"
+pt <- "https://fau-paleo.github.io/apw_2023/data/2_paleodiversity/"
 dat <- read.csv(paste0(pt,"Triassic_div.csv"), header=TRUE)
 
 attach(dat)
