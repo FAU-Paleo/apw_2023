@@ -4,15 +4,54 @@ layout: "post"
 permalink: "paleodiversity/"
 ---
 
-## Module 2: Paleodiversity Analyses in R
+Welcome to Module 2: Paleodiversity Analyses in R! Across these two days, we'll focus on how to analyse biodiversity in deep-time through theoretical introductions, hands-on exercises, and mini-assigments in R. 
 
-- This is a link to an external file (this one is on Zenodo): [metadata.txt](https://zenodo.org/record/8232301/files/metadata.txt?download=1) 
 
-- This is a link to a file on this page: [other metadata.txt]({{site.baseurl}}/data/2_paleodiversity/metadata.txt)
+| When   | What                                                                 |
+|--------|----------------------------------------------------------------------|
+| Aug 23 | **Day 3**: Community diversity                                       |
+| Aug 24 | **Day 4**: Exploring fossil occurrence data and fossil record biases |
+| Aug 25 | **Day 5**: Global diversity dynamics with traditional approaches     |
+|--------|----------------------------------------------------------------------|
 
-this is an image:
+<br>
 
-![The caption of the image]({{site.baseurl}}/images/Icon-SummerSchool-150x150.png)
+- - -
+
+<br>
+
+## Day 3: Community diversity
+with Wolfgang Kiessling
+
+<br>
+
+#### Purpose
+- Introduction to paleodiversity analyses (theory)
+- Statistics and diversity metrics
+- Mini-assignments in R
+
+
+### Slideshow
+- [Community diversity]({{site.baseurl}}/data/2_paleodiversity/CommunityDiversity2023.pptx)
+
+### R code
+- [Alpha_div.R]({{site.baseurl}}/data/2_paleodiversity/Alpha_div.R)
+- [Beta_div.R]({{site.baseurl}}/data/2_paleodiversity/Beta_div.R)
+- [sqs_Holland.R]({{site.baseurl}}/data/2_paleodiversity/sqs_Holland.R)
+
+
+### Datasets
+- [Cassian.csv]({{site.baseurl}}/data/2_paleodiversity/Cassian.csv)
+- [Radiolarians.csv]({{site.baseurl}}/data/2_paleodiversity/Radiolarians.csv)
+- [Triassic_div.csv]({{site.baseurl}}/data/2_paleodiversity/Triassic_div.csv)
+
+
+### Reading list
+[Click to download]({{site.baseurl}}/data/2_paleodiversity/ReadingList_Kiessling.docx)
+
+<br>
+
+- - -
 
 
 
