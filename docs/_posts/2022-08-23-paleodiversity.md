@@ -72,17 +72,22 @@ with Emma Dunne & Lisa Schnetz
 |-------|-------|-----------------------------------|
 
 ### Code and files
-- [GitHub repo]()
+- [GitHub repo](https://github.com/emmadunne/APW-2023-paleodiversity)
 
 ### Slideshows
 - [1. Databases in paleobiology]({{site.baseurl}}/data/2_paleodiversity/Day4_Emma/01_Databases.pdf)
-- [2. Fossil record biases]({{site.baseurl}}/data/2_paleodiversity/Day4_Emma/01_Databases.pdf)
+- [2. Fossil record biases]({{site.baseurl}}/data/2_paleodiversity/Day4_Emma/02_Fossil_biases.pdf)
 - [3. Sampling standardisation]({{site.baseurl}}/data/2_paleodiversity/Day4_Emma/03_Sampling_standardisation.pdf)
 
 Suggested papers are hyperlinked in the slideshows - any issues accessing them, just email Emma!
 
-### Other links
+### Other useful links
+- [HTML Color Codes](https://htmlcolorcodes.com/)
+- [Geo timescale hex codes](https://github.com/crimeacs/Geochronological_Colors/blob/master/Geochronological_scale_HEX.pdf)
+- 
 
+
+<br>
 
 
 - - -
