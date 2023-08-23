@@ -51,6 +51,40 @@ with Wolfgang Kiessling
 
 <br>
 
+
+## Day 4: Exploring fossil occurrence data and fossil record biases
+with Emma Dunne & Lisa Schnetz
+
+<br>
+
+### Schedule
+
+|-------|-------|-----------------------------------|
+| From  | To    | Details                           |
+|-------|-------|-----------------------------------|
+| 9:00  | 10:30 | Databases in paleobiology         |
+| 10:30 | 10:45 | **Coffee**                        |
+| 10:45 | 12:00 | Fossil record biases              |
+| 12:00 | 13:30 | **Lunch**                         |
+| 13:30 | 13:1  | Temporal diversity in R           |
+| 15:00 | 15:15 | **Coffee**                        |
+| 15:15 | 16:45 | Sampling standardisation          |
+|-------|-------|-----------------------------------|
+
+### Code and files
+- [GitHub repo]()
+
+### Slideshows
+- [1. Databases in paleobiology]({{site.baseurl}}/data/1_toolset/Dunne_data_sharing_standards)
+- [2. Fossil record biases]({{site.baseurl}}/data/1_toolset/Dunne_data_sharing_standards)
+- [3. Sampling standardisation]({{site.baseurl}}/data/1_toolset/Dunne_data_sharing_standards)
+
+Suggested papers are hyperlinked in the slideshows - any issues accessing them, just email Emma!
+
+### Other links
+
+
+
 - - -
 
 
