@@ -75,9 +75,9 @@ with Emma Dunne & Lisa Schnetz
 - [GitHub repo]()
 
 ### Slideshows
-- [1. Databases in paleobiology]({{site.baseurl}}/data/1_toolset/Dunne_data_sharing_standards)
-- [2. Fossil record biases]({{site.baseurl}}/data/1_toolset/Dunne_data_sharing_standards)
-- [3. Sampling standardisation]({{site.baseurl}}/data/1_toolset/Dunne_data_sharing_standards)
+- [1. Databases in paleobiology]({{site.baseurl}}/data/2_paleodiversity/Day4_Emma/01_Databases.pdf)
+- [2. Fossil record biases]({{site.baseurl}}/data/2_paleodiversity/Day4_Emma/01_Databases.pdf)
+- [3. Sampling standardisation]({{site.baseurl}}/data/2_paleodiversity/Day4_Emma/03_Sampling_standardisation.pdf)
 
 Suggested papers are hyperlinked in the slideshows - any issues accessing them, just email Emma!
 
