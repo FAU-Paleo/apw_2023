@@ -57,6 +57,16 @@ with Emma Dunne & Lisa Schnetz
 
 <br>
 
+### Content
+
+There are three main parts to this day and each one has an associated exercise in R:
+
+1. **Databases in Paleobiology** - available databases, futurproofing, accessing the Paleobiology Database and importing datasets into R
+2. **Fossil record biases** - exaploring the impact of biases on estimates of diversity through visualisations and simple statistics
+3. **Sampling standardisation** - Rarefaction/Extrapolation curves, coverage-based rarefaction with iNEXT, Shareholder Quorum Subsampling (SQS), and squares
+
+<br>
+
 ### Schedule
 
 |-------|-------|-----------------------------------|
@@ -66,9 +76,9 @@ with Emma Dunne & Lisa Schnetz
 | 10:30 | 10:45 | **Coffee**                        |
 | 10:45 | 12:00 | Fossil record biases              |
 | 12:00 | 13:30 | **Lunch**                         |
-| 13:30 | 13:1  | Temporal diversity in R           |
+| 13:30 | 15:00 | Sampling standardisation          |
 | 15:00 | 15:15 | **Coffee**                        |
-| 15:15 | 16:45 | Sampling standardisation          |
+| 15:15 | 16:45 | Sampling standardisation cont.    |
 |-------|-------|-----------------------------------|
 
 ### Code and files
