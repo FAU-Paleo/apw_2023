@@ -94,7 +94,6 @@ Suggested papers are hyperlinked in the slideshows - any issues accessing them, 
 ### Other useful links
 - [HTML Color Codes](https://htmlcolorcodes.com/)
 - [Geo timescale hex codes](https://github.com/crimeacs/Geochronological_Colors/blob/master/Geochronological_scale_HEX.pdf)
-- 
 
 
 <br>
@@ -103,4 +102,10 @@ Suggested papers are hyperlinked in the slideshows - any issues accessing them, 
 - - -
 
 
+## Day 5: Global diversity dynamics 
+with Ádám Kocsis
 
+# Slides
+- [1. Diversity dynamics - conceptual intro]({{site.baseurl}}/data/2_paleodiversity/Day5_Adam/2023-08-25_divDyn_basics.pdf)
+- [2. divDyn - Practicals]({{site.baseurl}}/data/2_paleodiversity/Day5_Adam/divDyn_apw2023.html)
+- [3. The coral example](https://evolv-ed.net/posts/analpal/2023-04-02_corals_divdyn/scleractinian-tutorial_chronos.html)
