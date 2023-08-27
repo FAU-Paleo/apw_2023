@@ -80,4 +80,4 @@ For example, characters can be ordered (e.g. you can allow character state chang
 We won't explore parsimony any further in this course but it remains widely used for the anaylsis of morphologcial character data and is sometimes much faster than alternative tree-building approaches.
 It can be a good way to obtain an initial look at your data/tree before or while running more computationally intensive analyses. 
 
-A complete script for this exercise can be downloaded [here]({{site.baseurl}}/data/3_phylogenetics/parsimony_example.R).
+A complete script for this exercise can be downloaded [here]({{site.baseurl}}/data/phylogenetics/parsimony_example.R).
