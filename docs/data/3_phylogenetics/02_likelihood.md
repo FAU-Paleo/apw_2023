@@ -10,7 +10,7 @@ In this exercise we'll estimate trees using maximum likelihood and look at the i
 
 For this we'll use the `phangorn` package and a data set of primates sequences.
 The sequences are a short fragment of the mitochondrial genome. 
-You can download the data from [here]({{site.baseurl}}/data/7_phylogenetics/primates-data.nex).
+You can download the data from [here]({{site.baseurl}}/data/3_phylogenetics/primates-data.nex).
 
 First install the necessary R packages if you don't have them aleady. 
 
