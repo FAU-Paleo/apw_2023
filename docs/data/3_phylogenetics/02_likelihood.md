@@ -29,7 +29,7 @@ dat = ape::read.nexus.data(file = "data/primates-data.nex")
 dat = phangorn::phyDat(dat, type = "DNA")
 ```
 
-As [before]({{site.baseurl}}/phylogenetics/likelihood) we need to generate a starting tree.
+As [before]({{site.baseurl}}/phylogenetics/parsimony) we need to generate a starting tree.
 We can do this using an approach called **neighbour-joining**. This simply calculates the evolutionary distance between the taxa in your matrix (using the `dist.hamming` function) and then groups taxa together based on their relative distances (using the `NJ` function).
 
 *In case of interest, for two sequences the [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) is simply the proportion of sites at which they differ. It's therefore one of the simplest ways to approximate evolutionary distances and generate a starting tree. But note this approach won't account for convergent evolution or homoplasy.*
@@ -50,7 +50,7 @@ fitJC
 
 > What do you notice about the base frequencies?
 
-Then we'll use the function `optim.pml` to find the tree with the best likelihood score under the Jukes-Cantor model. This function takes the tree and the starting values obtaining using the `pml` function and explores the tree space by switching around the branches. The argument `optNni = TRUE` tells the function to optimize the tree topology (i.e. find the tree with the highest likelihood), as well as the branch lengths and the model parameters. The parameters of the JC model are fixed, so the model parameters won't actually change in this case.
+Then we'll use the function `optim.pml` to find the tree with the best likelihood score under the Jukes-Cantor model. This function takes the tree and the starting values obtaining using the `pml` function and explores the tree space by changing the topology and updating the branch lengths. The argument `optNni = TRUE` tells the function to optimize the tree topology (i.e., find the tree with the highest likelihood), as well as the branch lengths and the model parameters. The parameters of the JC model are fixed, so the model parameters won't actually change in this case.
 
 ```
 # estimate the tree using ML
@@ -58,7 +58,7 @@ fitJC_opt = phangorn::optim.pml(fitJC, model = "JC", optNni = TRUE)
 fitJC_opt
 ```
 
-As the ML algorithm proceeds it outputs information about the progress. You can see how the likelihood changes as the tree topology and the branch lengths (edge weights) are updated. You should also see that the likelihood is improving, i.e. getting larger.
+As the ML algorithm proceeds it outputs information about the progress. You can see how the likelihood changes as the tree topology and the branch lengths (edge weights) are updated. You should also see that the likelihood is improving, i.e., getting larger.
 
 The function outputs a list with a bunch of values that might be of interest, including the tree.
 
@@ -100,6 +100,8 @@ AIC(fitJC_opt, fitGTR_opt)
 ```
 
 > How would you interpret these results? [Hint](https://www.scribbr.com/statistics/akaike-information-criterion/)
+
+Follow the link to learn more about [interpreting AIC scores]({{site.baseurl}}/phylogenetics/AIC).
 
 ## Output a tree from R
 
