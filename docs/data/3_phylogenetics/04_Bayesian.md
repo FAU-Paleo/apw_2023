@@ -6,7 +6,7 @@ permalink: "phylogenetics/bayesian"
 
 ## Bayesian tree inference using RevBayes
 
-In this exercise we'll estimate of a tree of primates using a slightly longer alignment than the one we used before - you can download this from [here]({{site.baseurl}}/data/7_phylogenetics/primates_and_galeopterus_cytb.nex). 
+In this exercise we'll estimate of a tree of primates using a slightly longer alignment than the one we used before - you can download this from [here]({{site.baseurl}}/data/3_phylogenetics/primates_and_galeopterus_cytb.nex). 
 
 We'll use a straightforward Bayesian approach and a standard set of substitutions models. 
 
@@ -61,7 +61,7 @@ For setting up regular Bayesian tree inference we need to specify two model comp
   1. we need a prior on the topology and branch lengths 
   2. and we need to specify a substitution model
 
-First we'll set up the uniform tree prior in `main.Rev`. The following specifies a uniform prior on the **tree topology** - this means that all possible tree configurations have the *same probability* under the prior. The tree is a [stochastic](exercise-03.html#stochastic) variable.
+First we'll set up the uniform tree prior in `main.Rev`. The following specifies a uniform prior on the **tree topology** - this means that all possible tree configurations have the *same probability* under the prior. The tree is a [stochastic]({{site.baseurl}}/phylogenetics/revbayes) variable.
 
 ```
 topology ~ dnUniformTopology(taxa)
@@ -85,7 +85,7 @@ for (i in 1:num_branches) {
 }
 ```
 
-The tree we're interested in and the one we use to calculate the likelihood combines the topology and branch lengths, which we can define using a  [deterministic](exercise-03.html#deterministic) variable.
+The tree we're interested in and the one we use to calculate the likelihood combines the topology and branch lengths, which we can define using a [deterministic]({{site.baseurl}}/phylogenetics/revbayes) variable.
 
 ```
 tree := treeAssembly(topology, br_lens)
@@ -174,7 +174,7 @@ During the MCMC run, the program should have created the folder `output` contain
 The first thing we want to check is **convergence**. We can do this using the program Tracer.
 Open Tracer and drag and drop your `.log` file into the panel on the left or you can go to File > Import Trace File. What you see should look something like this.
 
-![img]({{site.baseurl}}/images/trace1.png) 
+![img]({{site.baseurl}}/data/3_phylogenetics/trace1.png)
 
 Explore the output, including the Trace panel at the top.
 
@@ -189,7 +189,7 @@ You're already getting a flavor for how long MCMC analyses can take. It's very c
 
 Once your longer run is complete, open the file again in Tracer. Your new output should look something like this.
 
-![img]({{site.baseurl}}/images/trace2.png) 
+![img]({{site.baseurl}}/data/3_phylogenetics/trace2.png)
 
 > What differences do you notice in the output? 
 
@@ -211,7 +211,7 @@ You can open this tree in FigTree. Root the tree along the branch leading to `"G
 Next let's look at the node support. Go to Node Labels > Display > posterior.
 Your output should look something like this.
 
-![img]({{site.baseurl}}/images/figtree.png) 
+![img]({{site.baseurl}}/data/3_phylogenetics/figtree.png)
 
 ## The GTR substitution model {#GTR}
 
@@ -275,7 +275,7 @@ map_tree = mapTree(treetrace, "output/primates_GTR_MAP.tree")
 
 > Are there any differences between the summary trees?  
 
-A complete set of scripts for this exercise can be downloaded [here]({{site.baseurl}}/data/7_phylogenetics/exercise-RB01-scripts.zip).
+A complete set of scripts for this exercise can be downloaded [here]({{site.baseurl}}/data/3_phylogenetics/exercise-RB01-scripts.zip).
 
 ### Acknowledgements
 
