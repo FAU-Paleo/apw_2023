@@ -6,10 +6,38 @@ permalink: "phylogenetics/"
 
 # Module 3: Phylogenetics 
 
-- This is a link to an external file (this one is on Zenodo): [metadata.txt](https://zenodo.org/record/8232301/files/metadata.txt?download=1) 
+Welcome to Module 3: Phylogenetics! 
 
-- This is a link to a file on this page: [other metadata.txt]({{site.baseurl}}/data/4_phylogenetics/metadata.txt)
 
-this is an image:
 
-![The caption of the image]({{site.baseurl}}/images/Icon-SummerSchool-150x150.png)
+| When   | What                                                                 |
+|--------|----------------------------------------------------------------------|
+| Aug 27 | **Day 6**: Introduction to statistical phylogenetics                                       |
+| Aug 28 | **Day 7**: Dating tree using fossilised birth-death process|
+|--------|----------------------------------------------------------------------|
+
+<br>
+
+- - -
+
+<br>
+
+## Day 6
+
+<br>
+
+### Slides
+- [Introduction]({{site.baseurl}}/data/3_phylogenetics/part1.pdf)
+
+### Exercises
+- [Exercise 1: Parsimony]({{site.baseurl}}/3_phylogenetics/parsimony)
+- [Exercise 2: Likelihood]({{site.baseurl}}/3_phylogenetics/likelihood)
+- [Exercise 3: the Rev language]({{site.baseurl}}/3_phylogenetics/revbayes)
+- [Exercise 4: Bayesian tree inference using RevBayes]({{site.baseurl}}/3_phylogenetics/bayesian)
+
+
+
+
+
+
+
