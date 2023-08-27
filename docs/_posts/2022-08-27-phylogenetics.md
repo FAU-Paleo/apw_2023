@@ -31,9 +31,9 @@ Welcome to Module 3: Phylogenetics!
 
 ### Exercises
 - [Exercise 1: Parsimony]({{site.baseurl}}/phylogenetics/parsimony)
-- [Exercise 2: Likelihood]({{site.baseurl}}/3_phylogenetics/likelihood)
-- [Exercise 3: the Rev language]({{site.baseurl}}/3_phylogenetics/revbayes)
-- [Exercise 4: Bayesian tree inference using RevBayes]({{site.baseurl}}/3_phylogenetics/bayesian)
+- [Exercise 2: Likelihood]({{site.baseurl}}/phylogenetics/likelihood)
+- [Exercise 3: the Rev language]({{site.baseurl}}/phylogenetics/revbayes)
+- [Exercise 4: Bayesian tree inference using RevBayes]({{site.baseurl}}/phylogenetics/bayesian)
 
 
 

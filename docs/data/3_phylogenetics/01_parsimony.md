@@ -21,7 +21,7 @@ install.packages("phangorn")
 `ape` is a very widely used phyologenetics package that contains (among many others) functions for reading, writing and plotting phylogenetic trees and data.
 `phangorn` is a package that contains functions for straightforward tree building. 
 
-Download the character data from [here]({{site.baseurl}}/data/7_phylogenetics/Frankie-data.nex). Nexus is a common format used to store phylogenetic character data.
+Download the character data from [here]({{site.baseurl}}/data/3_phylogenetics/Frankie-data.nex). Nexus is a common format used to store phylogenetic character data.
 Next we'll read the data and convert it into the format used by phangorn.
 
 ```
