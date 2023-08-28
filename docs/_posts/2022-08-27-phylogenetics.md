@@ -45,6 +45,8 @@ Welcome to Module 3: Phylogenetics!
 ### Exercises
 - [Exercise 5: Simulating under the FBD process]({{site.baseurl}}/phylogenetics/fbd_sim)
 - [Exercise 6: Inference under the FBD process]({{site.baseurl}}/phylogenetics/fbd_inf)
+- [Exercise 7: Tree inference using morphology]({{site.baseurl}}/phylogenetics/morpho_inf)
+- [Exercise 8: Model adequacy]({{site.baseurl}}/phylogenetics/PPS)
 
 
 
