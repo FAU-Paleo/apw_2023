@@ -41,7 +41,7 @@ Welcome to Module 3: Phylogenetics!
 
 ### Slides
 - [Phylogenetic dating]({{site.baseurl}}/data/3_phylogenetics/phylo-part2.pdf)
-- [Phylogenetic dating]({{site.baseurl}}/data/3_phylogenetics/phylo-part3.pdf)
+- [Morphological data]({{site.baseurl}}/data/3_phylogenetics/phylo-part3.pdf)
 
 ### Exercises
 - [Exercise 5: Simulating under the FBD process]({{site.baseurl}}/phylogenetics/fbd_sim)
