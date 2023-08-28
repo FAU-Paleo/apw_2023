@@ -24,7 +24,7 @@ Choose two substitution models and see if they change key parameter estimates.
  
 ### Tree inference
 
-In the `MCMC.rev` script start by reading in your data. You can use the data provided or you can use your own data or a data set from Graeme T Llyod website [here](http://www.graemetlloyd.com/matr.html)
+In the `MCMC.rev` script start by reading in your data. You can use the data provided or you can use your own data or a data set from Graeme T Llyod website [here](http://www.graemetlloyd.com/matr.html).
 
 ``` {r data, eval=TRUE}
 morpho <- readDiscreteCharacterData("data/Egi_etal_2005a_paleobiodb.nex")
@@ -87,7 +87,7 @@ seq.clamp(morpho)
 This is the most simple version of the Mk model. In order to relax some of the assumptions of this model we can go on to add extensions that allow the model to more accurately represent morphological evolution.
 
 ##### Across site transition variation (+Gamma)
-Allowing sites to transition from one state to another at different rates may be more realistic than the assumption that they would all have equal rates. In order to incorporate this into our model we need to first set up the Gamma-distributed rate variation
+Allowing sites to transition from one state to another at different rates may be more realistic than the assumption that they would all have equal rates. In order to incorporate this into our model we need to first set up the Gamma-distributed rate variation.
 
 ``` {r gamma, eval=TRUE}
 alpha_inv ~ dnExponential(1)
@@ -145,15 +145,16 @@ This code creates an evolutionary model and clamps our model to the data.
 
 
 Use `source()` to read in your substitution models from the `MCMC.rev` script.
+
 ### MCMC Settings 
 
-##### Create the model variable
+Note that the model variable is added to the end of each model script.
 
 `mymodel = model(phylogeny)`
-First specify which version of the Mk model you chose, for example 
+
+In the main MCMC script, specify which version of the Mk model you chose, for example,
 
 `model_name="MkV"`
-
 
 Next, we setup our monitors, like in our previous MCMC analyses.
 
@@ -163,8 +164,7 @@ monitors.append( mnFile(filename= "output/APW-example.trees",printgen=10, separa
 monitors.append( mnScreen(printgen=1000, tree_length) )
 ```
 
-
-Finally, we’ll set up the MCMC run using the mcmc function, specifying our model, the vector of monitors and the vector of moves. And then we’ll run the chain for 2000 generations.
+Finally, we’ll set up the MCMC run using the MCMC function, specifying our model, the vector of monitors and the vector of moves. And then we’ll run the chain for 2000 generations.
 
 ``` {r mcmcc, eval=TRUE}
 mymcmc = mcmc(mymodel, monitors, moves, nruns=2, combine="mixed")
