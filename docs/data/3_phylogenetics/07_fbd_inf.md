@@ -6,7 +6,7 @@ permalink: "phylogenetics/fbd_inf"
 
 ## Bayesian tree inference using the fossilised birth-death process RevBayes
 
-In this exercise we'll estimate of a time tree of bears under the fossilised birth-death (FBD) process. This time the data we'll use is a [morphological matrix]({{site.baseurl}}/data/7_phylogenetics/bears_morphology.nex) for 16 living and fossil bears. We'll also use [age information]({{site.baseurl}}/data/7_phylogenetics/bears_taxa.tsv) associated with all taxa. Download these files and check out the contents. 
+In this exercise we'll estimate of a time tree of bears under the fossilised birth-death (FBD) process. This time the data we'll use is a [morphological matrix]({{site.baseurl}}/data/3_phylogenetics/bears_morphology.nex) for 16 living and fossil bears. We'll also use [age information]({{site.baseurl}}/data/3_phylogenetics/bears_taxa.tsv) associated with all taxa. Download these files and check out the contents. 
 
 For this exercise create a folder called `exercise 6`. Then create two sub-directories: `data` and `scripts`. Recall that for divergence time estimation we need three model components, so we'll create the following scripts:
 
@@ -18,7 +18,12 @@ Edit the scripts in a text editor of your choice.
 
 ## Read in the data and define helper variables
 
-Start with your `main.Rev` script.
+Start with your `main.Rev` script. Place the following command at the beginning of this script. This tells RevBayes how we want sampled ancestors to be represented in the output - this option makes it easier to visualise sampled ancestors.
+
+```
+setOption("collapseSampledAncestors","false")
+```
+
 As before, we'll start by reading in the data and defining some helper variables.
 
 ```
@@ -243,7 +248,7 @@ Some extra things to try. **Make sure you rename the output files so you don't o
 
 ### Add molecular sequence data
 
-Try adding the molecular sequence alignment from the [previous exercise]({{site.baseurl}}/data/7_phylogenetics/phylogenetics/dating).
+Try adding the molecular sequence alignment from the [previous exercise]({{site.baseurl}}/data/3_phylogenetics/phylogenetics/dating).
 
 There's just a few extra steps we need to add when we read in the data, at the beginning of `main.Rev`.
 
