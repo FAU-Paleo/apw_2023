@@ -217,7 +217,7 @@ This might take a while run pretty quickly. Meanwhile, you could move on to the 
 As before, open your `.log` file in Tracer.  
 It should look something like this. 
 
-![img]({{site.baseurl}}/images/trace5.png)
+![img]({{site.baseurl}}/data/3_phylogenetics/trace5.png)
 
 > Explore the output. Can you identify the different parameters? Has the analysis converged?
 
@@ -233,7 +233,7 @@ mccTree(trace, file = "output/bears_FBD.mcc.tre", positiveBranchLengths = TRUE)
 Once you have your summary tree open it in FigTree and play around with the settings.
 See if you can get something like this.
 
-![img]({{site.baseurl}}/images/mcc_bears_fbd.png)
+![img]({{site.baseurl}}/data/3_phylogenetics/mcc_bears_fbd.png)
 
 > Which candiates on your tree do you think might be sampled ancestors?
 
