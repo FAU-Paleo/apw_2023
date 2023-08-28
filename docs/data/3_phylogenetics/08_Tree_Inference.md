@@ -7,7 +7,7 @@ permalink: "phylogenetics/morpho_inf"
 ## Tree Inference using Mk substitution model
 
 In this exercise we will  estimate trees using the Mk model and some common extensions. The extensions we will explore here include allowing for unequal transition rates (+gamma), correcting for collection biases (MkV) and partitioning the data.
-There is then a total of 8 models to choose 
+There is then a total of 8 models to choose.
 
 ```
 Mk
