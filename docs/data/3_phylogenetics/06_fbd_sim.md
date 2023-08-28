@@ -100,7 +100,7 @@ plot(f2, t1, reconstructed = TRUE)
 
 ## The fossilised birth-death process
 
-The FBD model also incorporates the fossils sampling process, through the addtional of the fossil sampling rate parameter. 
+The FBD model also incorporates the fossil sampling process, through the addtional of the fossil sampling rate parameter. 
 
 ```
 psi = 0.1
