@@ -279,7 +279,7 @@ Note that its not strictly "under the prior" because the fossil ages are data bu
 
 > Compare you results to the posterior obtained using in the previous steps. What information do we gain from the morphological / molecular data?
 
-A complete set of scripts for this exercise can be downloaded [here]({{site.baseurl}}/data/7_phylogenetics/exercise-RB03-scripts.zip).
+A complete set of scripts for this exercise can be downloaded [here]({{site.baseurl}}/data/3_phylogenetics/exercise-RB03-scripts.zip).
 
 ### Acknowledgements
 
