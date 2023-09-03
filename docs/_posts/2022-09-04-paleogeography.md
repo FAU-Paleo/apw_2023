@@ -4,15 +4,17 @@ layout: "post"
 permalink: "paleogeography/"
 ---
 
-# Heading
+# Basic GIS
 
-- This is a link to an external file (this one is on Zenodo): [metadata.txt](https://zenodo.org/record/8232301/files/metadata.txt?download=1) 
+- [Slideshow]({{site.baseurl}}/data/6_paleogeography/2023-09-04_GIS_basics.pdf)
+- [Vector examples]({{site.baseurl}}/data/6_paleogeography/1_vectors.zip)
+- [Raster examples]({{site.baseurl}}/data/6_paleogeography/2_rasters.zip)
 
-- This is a link to a file on this page: [other metadata.txt]({{site.baseurl}}/data/7_paleogeography/metadata.txt)
+# Paleo-GIS
 
-this is an image:
+- [rgplates]({{site.baseurl}}/data/6_paleogeography/3_rgplates.R)
+- [paleo-rasters]({{site.baseurl}}/data/6_paleogeography/4_paleorasters.R)
 
-![The caption of the image]({{site.baseurl}}/images/Icon-SummerSchool-150x150.png)
 
 
 
