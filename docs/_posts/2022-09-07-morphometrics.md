@@ -38,12 +38,16 @@ Welcome to Module 8: Geometric Morphometrics! Across these two days, we'll focus
 
 ### Data Files
 
-### R Functions
-
 - [Raw Data- Belemnite Outlines]({{site.baseurl}}/data/8_morphometrics/Data/Belemnite_Data.txt)
-- [Smoothed Data- Belemnite Outlines]({{site.baseurl}}/data/utility_functions/Data/Belemnite_SmoothedOutline.nts)
+- [Smoothed Data- Belemnite Outlines]({{site.baseurl}}/data/8_morphometrics/Data/Belemnite_SmoothedOutline.nts)
 - [3D Mesh file- Canis lupis]({{site.baseurl}}/data/8_morphometrics/Data/Canis_lupus.ply)
 - [2D landmark scheme for mustelids]({{site.baseurl}}/data/8_morphometrics/Data/landmark_scheme.txt)
 - [Links for 2D landmark scheme]({{site.baseurl}}/data/8_morphometrics/Data/links.csv)
 - [3D landmarks on mammals]({{site.baseurl}}/data/8_morphometrics/Data/mammals.csv)
 - [Landmark IDs for 3D data]({{site.baseurl}}/data/8_morphometrics/Data/mammal_3d_fixed_points.csv)
+
+### R Functions
+
+- [MorphoFiles_Function.r]({{site.baseurl}}/data/8_morphometrics/utility_functions/MorphoFiles_Function.r)
+- [MorphometricExtraction_Functions.r]({{site.baseurl}}/data/8_morphometrics/Data/MorphometricExtraction_Functions.r)
+- [OutlineAnalysis_Functions.r]({{site.baseurl}}/data/8_morphometrics/Data/OutlineAnalysis_Functions.r)
