@@ -15,6 +15,8 @@ permalink: "paleogeography/"
 - [rgplates]({{site.baseurl}}/data/6_paleogeography/3_rgplates.R)
 - [paleo-rasters]({{site.baseurl}}/data/6_paleogeography/4_paleorasters.R)
 
-
-
+# Links
+- [GPlates](https://www.gplates.org/)
+- [rgplates](https://adamkocsis.github.io/rgplates/)
+- [icosa](https://adamkocsis.github.io/icosa/)
 
