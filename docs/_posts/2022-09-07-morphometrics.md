@@ -11,7 +11,7 @@ Welcome to Module 8: Geometric Morphometrics! Across these two days, we'll focus
 |--------|----------------------------------------------------------------------|
 | Sept 7 | Intro and landmark-based GMM                                         |
 | Sept 8 | Outlines and beyond                                                  |
-|--------|----------------------------------------------------------------------|
+
 
 <br>
 
