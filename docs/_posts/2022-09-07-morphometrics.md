@@ -32,7 +32,7 @@ Welcome to Module 8: Geometric Morphometrics! Across these two days, we'll focus
 - [0. Setup]({{site.baseurl}}/data/8_morphometrics/exercises/0_Setup.pdf)
 - [1. Collecting Outline data]({{site.baseurl}}/data/8_morphometrics/exercises/1_Outline_Data_Collection.pdf)
 - [2. Conduct Ellipitcal Fourier Analysis]({{site.baseurl}}/data/8_morphometrics/exercises/2_Ellipitcal_Fourier.pdf)
-- [3. Analyze EFA Data]({{site.baseurl}}/data/8_morphometrics/exercises/3_Analyzing_Outline_Data.pdf)
+- [3. Analyze EFA Data]({{site.baseurl}}/data/8_morphometrics/exercises/3_%20Analyzing_Outline_Data.pdf)
 - [4. Collecting and Analyzing 2D landmark data]({{site.baseurl}}/data/8_morphometrics/exercises/4_Collecting_and_Analyzing_Landmark_Data.pdf)
 - [5. Practice and Synthesis]({{site.baseurl}}/data/8_morphometrics/exercises/5_Practicing_with_3D_Landmark_Data.pdf)
 
